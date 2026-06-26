@@ -1048,7 +1048,2536 @@
     "category": "Customer Support",
     "question": "What are your customer support hours and channels?",
     "answer": "Support is available via email and live chat during business hours; phone support hours are listed on the 'Contact Us' page. We also provide help center articles 24/7."
-  }
-    ]
+  }, 
+  {
+    "id": 151,
+    "language": "EN",
+    "category": "Returns",
+    "question": "Are there any items that cannot be returned?",
+    "answer": "Certain items such as perishable goods, personalized products, and opened software may be non-returnable. Check the product page for specific return restrictions."
+  },
+  {
+    "id": 152,
+    "language": "EN",
+    "category": "Refunds",
+    "question": "When will I see the refund on my bank statement?",
+    "answer": "Once processed, refunds typically appear on your bank statement within 5-10 business days, depending on your bank's processing times."
+  },
+  {
+    "id": 153,
+    "language": "EN",
+    "category": "Shipping",
+    "question": "Can I request signature-on-delivery for my package?",
+    "answer": "Yes, signature-on-delivery is available for many shipping options. Select the preference at checkout if offered for your address."
+  },
+  {
+    "id": 154,
+    "language": "EN",
+    "category": "Payments",
+    "question": "How do I update my saved card's expiration date?",
+    "answer": "Go to 'Account > Payment Methods', select the saved card, and update the expiration date. If you encounter issues, contact support for assistance."
+  },
+  {
+    "id": 155,
+    "language": "EN",
+    "category": "Account Management",
+    "question": "How can I change my account display name?",
+    "answer": "Navigate to 'Account Settings' and edit your display name. Save changes and they will appear across your account immediately."
+  },
+  {
+    "id": 156,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "The product app shows 'incompatible device' — what does that mean?",
+    "answer": "This indicates your device does not meet the app's minimum requirements. Check the app's compatibility list or contact support with your device model."
+  },
+  {
+    "id": 157,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Can I transfer my product warranty to another person?",
+    "answer": "Warranty transferability depends on the product and region. Review the warranty terms or contact support with the new owner's details to confirm."
+  },
+  {
+    "id": 158,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do I delete my personal data from your system?",
+    "answer": "Submit a data deletion request via the 'Privacy' section in your account or email privacy@example.com. We'll guide you through verification and deletion steps."
+  },
+  {
+    "id": 159,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I add items to an existing order before it ships?",
+    "answer": "Adding items to an existing order depends on fulfillment status. Contact support immediately with your order number and requested items; we'll attempt to modify the order."
+  },
+  {
+    "id": 160,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Are promotional discounts valid on sale items?",
+    "answer": "Promotional terms vary. Some discounts cannot be combined with sale pricing. Check the promotion details or try applying the code at checkout."
+  },
+  {
+    "id": 161,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Will I lose access to subscription content if I pause my plan?",
+    "answer": "Pausing a subscription may suspend access to certain benefits until you resume. Review your subscription terms or contact support for specifics."
+  },
+  {
+    "id": 162,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Where can I find the user manual for my product?",
+    "answer": "User manuals are available on the product's support page. If you cannot find it, contact support with the product model and we'll provide the manual."
+  },
+  {
+    "id": 163,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Do you offer net payment terms for corporate purchases?",
+    "answer": "Net payment terms may be available for approved corporate accounts. Contact our sales team with company details to discuss eligibility and terms."
+  },
+  {
+    "id": 164,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "What happens if my package is lost in transit?",
+    "answer": "If tracking indicates a lost package, contact support with your order number. We'll investigate with the carrier and arrange a replacement or refund as appropriate."
+  },
+  {
+    "id": 165,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "Is there a fee to cancel an order?",
+    "answer": "Cancellation fees are uncommon but may apply for certain services or custom orders. Contact support promptly to confirm any applicable fees."
+  },
+  {
+    "id": 166,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can I check my gift card balance online?",
+    "answer": "Yes, you can check your gift card balance in 'Account > Gift Cards' or by entering the code at checkout."
+  },
+  {
+    "id": 167,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "Do loyalty points expire?",
+    "answer": "Loyalty points may expire after a period of inactivity. Check the loyalty program terms in your account for expiration policies."
+  },
+  {
+    "id": 168,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Can I request no-brand packaging for privacy?",
+    "answer": "We offer discreet packaging options in select regions. Choose the privacy packaging option at checkout when available."
+  },
+  {
+    "id": 169,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Who is responsible for customs clearance on international orders?",
+    "answer": "The recipient is typically responsible for customs clearance and any associated duties unless DDP (Delivered Duty Paid) is selected."
+  },
+  {
+    "id": 170,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Why was my backorder canceled?",
+    "answer": "Backorders may be canceled due to supplier issues or inventory discrepancies. Contact support for details and possible alternatives."
+  },
+  {
+    "id": 171,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "هل يمكنني استرداد المبلغ إذا فقدت إيصال الشراء؟",
+    "answer": "يفضل وجود إثبات الشراء، لكن في بعض الحالات يمكننا التحقق من الطلب عبر حسابك أو رقم الطلب لمعالجة الإرجاع."
+  },
+  {
+    "id": 172,
+    "language": "AR",
+    "category": "الشحن",
+    "question": "هل تقدمون تتبعًا مباشرًا عبر التطبيق؟",
+    "answer": "نعم، يمكنك تتبع حالة الشحنة مباشرة من خلال التطبيق أو عبر رابط التتبع المرسل إلى بريدك الإلكتروني."
+  },
+  {
+    "id": 173,
+    "language": "AR",
+    "category": "المدفوعات",
+    "question": "هل يمكنني استرداد المدفوعات المكررة؟",
+    "answer": "إذا تم خصم مبلغ مكرر، تواصل مع الدعم مع تفاصيل المعاملة وسنحقق ونصدر استردادًا إذا ثبت الخطأ."
+  },
+  {
+    "id": 174,
+    "language": "AR",
+    "category": "إدارة الحساب",
+    "question": "كيف أغير رقم هاتفي المرتبط بالحساب؟",
+    "answer": "اذهب إلى 'إعدادات الحساب' ثم 'معلومات الاتصال' لتحديث رقم الهاتف. قد نطلب التحقق عبر رسالة نصية."
+  },
+  {
+    "id": 175,
+    "language": "AR",
+    "category": "مشكلات فنية",
+    "question": "هل يمكنني استعادة إعدادات المصنع للجهاز عبر التطبيق؟",
+    "answer": "بعض الأجهزة تدعم إعادة ضبط المصنع عبر التطبيق. راجع دليل المنتج أو تواصل مع الدعم للحصول على خطوات آمنة."
+  },
+  {
+    "id": 176,
+    "language": "AR",
+    "category": "الضمان",
+    "question": "ما هي مدة الضمان لملحقات الجهاز؟",
+    "answer": "تختلف مدة الضمان حسب نوع الملحق؛ عادةً تكون 6 أشهر إلى سنة. راجع صفحة المنتج لمعلومات الضمان الخاصة بالملحق."
+  },
+  {
+    "id": 177,
+    "language": "AR",
+    "category": "الخصوصية",
+    "question": "كيف أغير تفضيلات الإعلانات المستهدفة؟",
+    "answer": "يمكنك تعديل تفضيلات الإعلانات في إعدادات الخصوصية بحسابك أو إلغاء الاشتراك من رسائل التسويق."
+  },
+  {
+    "id": 178,
+    "language": "AR",
+    "category": "الطلبات",
+    "question": "هل يمكنني طلب فاتورة ضريبية بعد الشراء؟",
+    "answer": "نعم، يمكنك طلب فاتورة ضريبية عبر صفحة 'طلباتي' أو التواصل مع الدعم لتزويدك بالفاتورة الرسمية."
+  },
+  {
+    "id": 179,
+    "language": "AR",
+    "category": "الخصومات",
+    "question": "هل تقدمون خصومات للمنظمات غير الربحية؟",
+    "answer": "قد نقدم خصومات للمنظمات غير الربحية بعد التحقق. تواصل مع فريق المبيعات لتقديم المستندات المطلوبة."
+  },
+  {
+    "id": 180,
+    "language": "AR",
+    "category": "الاستلام من المتجر",
+    "question": "كم من الوقت يستغرق تجهيز طلب الاستلام من المتجر؟",
+    "answer": "عادةً يتم تجهيز طلبات الاستلام خلال 2-4 ساعات، وسنرسل إشعارًا عندما يصبح الطلب جاهزًا للاستلام."
+  },
+  {
+    "id": 181,
+    "language": "FR",
+    "category": "Retours",
+    "question": "Puis-je retourner un article acheté il y a plus de 30 jours ?",
+    "answer": "Les retours au-delà de 30 jours sont examinés au cas par cas. Contactez le support avec votre numéro de commande pour assistance."
+  },
+  {
+    "id": 182,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Comment modifier l'adresse de livraison après expédition ?",
+    "answer": "Une fois expédié, la modification dépend du transporteur. Contactez le support rapidement pour que nous puissions tenter une modification."
+  },
+  {
+    "id": 183,
+    "language": "FR",
+    "category": "Paiements",
+    "question": "Puis-je obtenir un remboursement sur une carte expirée ?",
+    "answer": "Si la carte a expiré, le remboursement est généralement traité par la banque émettrice. Contactez votre banque ou le support pour plus d'informations."
+  },
+  {
+    "id": 184,
+    "language": "FR",
+    "category": "Compte",
+    "question": "Comment ajouter un administrateur à mon compte entreprise ?",
+    "answer": "Dans 'Compte > Paramètres d'entreprise', vous pouvez inviter des administrateurs en saisissant leur adresse e-mail et en attribuant des rôles."
+  },
+  {
+    "id": 185,
+    "language": "FR",
+    "category": "Technique",
+    "question": "Le produit ne se synchronise pas avec mon compte, que faire ?",
+    "answer": "Vérifiez la connexion Internet et les identifiants. Si le problème persiste, redémarrez l'appareil et contactez le support avec les logs si possible."
+  },
+  {
+    "id": 186,
+    "language": "FR",
+    "category": "Garantie",
+    "question": "La garantie couvre-t-elle les pièces détachées ?",
+    "answer": "La garantie couvre les défauts de fabrication des pièces, mais l'usure normale peut ne pas être couverte. Consultez les conditions de garantie."
+  },
+  {
+    "id": 187,
+    "language": "FR",
+    "category": "Confidentialité",
+    "question": "Comment demander la portabilité de mes données ?",
+    "answer": "Soumettez une demande de portabilité via la section 'Confidentialité' de votre compte et nous vous fournirons vos données dans un format structuré."
+  },
+  {
+    "id": 188,
+    "language": "FR",
+    "category": "Commandes",
+    "question": "Puis-je demander une livraison à une adresse différente pour chaque article ?",
+    "answer": "La livraison multi-adresses est disponible pour certaines commandes. Sélectionnez l'option 'Livrer à plusieurs adresses' lors du paiement si elle est proposée."
+  },
+  {
+    "id": 189,
+    "language": "FR",
+    "category": "Promotions",
+    "question": "Comment savoir si une promotion s'applique à mon panier ?",
+    "answer": "Les promotions applicables s'affichent au moment du paiement. Si un code ne fonctionne pas, vérifiez les conditions d'éligibilité."
+  },
+  {
+    "id": 190,
+    "language": "ES",
+    "category": "Devoluciones",
+    "question": "¿Puedo devolver un artículo comprado como regalo por otra persona?",
+    "answer": "Sí, las devoluciones de regalos son posibles con el recibo de regalo o el número de pedido. Contacta con soporte para asistencia."
+  },
+  {
+    "id": 191,
+    "language": "ES",
+    "category": "Envío",
+    "question": "¿Puedo cambiar el transportista después de realizar el pedido?",
+    "answer": "Cambiar de transportista depende del estado del pedido y la disponibilidad. Contacta con soporte lo antes posible para evaluar opciones."
+  },
+  {
+    "id": 192,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Cómo actualizo la información de facturación de una tarjeta guardada?",
+    "answer": "Ve a 'Cuenta > Métodos de pago', selecciona la tarjeta y edita la información de facturación. Guarda los cambios para que se apliquen."
+  },
+  {
+    "id": 193,
+    "language": "ES",
+    "category": "Cuenta",
+    "question": "¿Cómo puedo recuperar mi nombre de usuario si lo olvidé?",
+    "answer": "Utiliza la opción '¿Olvidaste tu usuario?' en la página de inicio de sesión o contacta con soporte proporcionando tu correo electrónico registrado."
+  },
+  {
+    "id": 194,
+    "language": "ES",
+    "category": "Técnico",
+    "question": "¿Qué hago si mi dispositivo no se actualiza automáticamente?",
+    "answer": "Comprueba la conexión a Internet y el espacio de almacenamiento. Si el problema continúa, descarga la actualización manualmente desde la página de soporte."
+  },
+  {
+    "id": 195,
+    "language": "ES",
+    "category": "Garantía",
+    "question": "¿Cómo envío un producto para reparación en garantía?",
+    "answer": "Abre una solicitud de garantía en el portal de soporte; te proporcionaremos instrucciones de envío y una etiqueta si corresponde."
+  },
+  {
+    "id": 196,
+    "language": "ES",
+    "category": "Privacidad",
+    "question": "¿Cómo puedo limitar el uso de mis datos para publicidad personalizada?",
+    "answer": "Ajusta tus preferencias de marketing en la sección de privacidad de tu cuenta o utiliza el enlace de exclusión en los correos promocionales."
+  },
+  {
+    "id": 197,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "Do you provide captions or transcripts for product videos?",
+    "answer": "Yes, captions and transcripts are provided for most product videos. Contact support if you need a specific format or accessibility accommodation."
+  },
+  {
+    "id": 198,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "Can I request consolidated invoicing for multiple orders?",
+    "answer": "Consolidated invoicing may be available for business accounts. Contact our billing team to discuss your requirements and eligibility."
+  },
+  {
+    "id": 199,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "Will restock notifications guarantee I can purchase the item?",
+    "answer": "A restock notification indicates availability but does not reserve stock. We recommend purchasing promptly after receiving the notification."
+  },
+  {
+    "id": 200,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "How do you handle orders placed during a public holiday?",
+    "answer": "Orders placed during public holidays are processed on the next business day. Shipping timelines will reflect the processing delay."
+  },
+  {
+    "id": 201,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "Can I schedule a callback from customer support?",
+    "answer": "Yes, callback scheduling is available in some regions. Use the 'Request a callback' option in the support center to choose a convenient time."
+  },
+  {
+    "id": 202,
+    "language": "EN",
+    "category": "Returns",
+    "question": "Do you provide prepaid return labels for international returns?",
+    "answer": "Prepaid return labels for international returns are provided in limited cases. Contact support to determine eligibility and next steps."
+  },
+  {
+    "id": 203,
+    "language": "EN",
+    "category": "Refunds",
+    "question": "Can I request a store credit instead of a refund?",
+    "answer": "Yes, you can opt for store credit in many cases. Select the preferred refund method when initiating your return."
+  },
+  {
+    "id": 204,
+    "language": "EN",
+    "category": "Shipping",
+    "question": "How do you handle shipments to remote or rural areas?",
+    "answer": "Shipments to remote areas may have extended delivery times or limited carrier options. Additional fees may apply depending on the destination."
+  },
+  {
+    "id": 205,
+    "language": "EN",
+    "category": "Payments",
+    "question": "Is there a surcharge for using certain payment methods?",
+    "answer": "We do not typically charge surcharges for standard payment methods. Any applicable fees will be disclosed during checkout."
+  },
+  {
+    "id": 206,
+    "language": "EN",
+    "category": "Account Management",
+    "question": "How do I enable purchase approvals for my team account?",
+    "answer": "Team account administrators can enable purchase approvals in 'Account > Team Settings' to require manager approval for orders."
+  },
+  {
+    "id": 207,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why is my device overheating during use?",
+    "answer": "Overheating can be caused by heavy usage, blocked vents, or firmware issues. Ensure proper ventilation and update firmware; contact support if the issue persists."
+  },
+  {
+    "id": 208,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Can I extend warranty coverage after the initial period ends?",
+    "answer": "Extended warranty options are often available for purchase within a specified period after delivery. Check your product page or contact support for options."
+  },
+  {
+    "id": 209,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "Will you share my data with third-party advertisers?",
+    "answer": "We do not sell personal data to third parties. We may share limited data with trusted partners under strict agreements; review our privacy policy for details."
+  },
+  {
+    "id": 210,
+    "language": "EN",
+    "category": "Orders",
+    "question": "How can I request a change to the delivery instructions?",
+    "answer": "Update delivery instructions in your order details if the order has not shipped. If it has shipped, contact the carrier with the tracking number for possible changes."
+  },
+  {
+    "id": 211,
+    "language": "AR",
+    "category": "المدفوعات",
+    "question": "هل يمكنني استرداد ضريبة القيمة المضافة عند الشراء من خارج الدولة؟",
+    "answer": "قد تكون مؤهلاً لاسترداد ضريبة القيمة المضافة حسب قوانين بلد الشراء. تواصل مع الدعم أو الجمارك المحلية لمعرفة الإجراءات."
+  },
+  {
+    "id": 212,
+    "language": "AR",
+    "category": "الشحن",
+    "question": "هل يمكنني طلب توصيل في نفس اليوم لمنتجات محددة؟",
+    "answer": "نقدم خدمة التوصيل في نفس اليوم في مناطق محددة ولمنتجات مؤهلة. تحقق من توفر الخدمة عند الدفع."
+  },
+  {
+    "id": 213,
+    "language": "AR",
+    "category": "إدارة الحساب",
+    "question": "كيف أضيف مستخدمين جدد إلى حساب الشركة؟",
+    "answer": "في إعدادات الحساب التجاري، اختر 'إدارة الفريق' ثم 'دعوة عضو' وأدخل بريده الإلكتروني لتعيينه دورًا."
+  },
+  {
+    "id": 214,
+    "language": "AR",
+    "category": "مشكلات فنية",
+    "question": "هل يمكن استعادة نسخة احتياطية من إعدادات الجهاز؟",
+    "answer": "إذا كان المنتج يدعم النسخ الاحتياطي السحابي، يمكنك استعادة الإعدادات من خلال صفحة الدعم أو التطبيق."
+  },
+  {
+    "id": 215,
+    "language": "AR",
+    "category": "الضمان",
+    "question": "هل يشمل الضمان تكاليف الشحن للإصلاح؟",
+    "answer": "في بعض الحالات، نغطي تكاليف الشحن للإصلاحات المشمولة بالضمان. سنوضح ذلك عند الموافقة على طلب الضمان."
+  },
+  {
+    "id": 216,
+    "language": "FR",
+    "category": "Retours",
+    "question": "Puis-je retourner un article acheté avec un bon cadeau?",
+    "answer": "Oui, les retours d'achats effectués avec un bon cadeau sont possibles et le remboursement est généralement crédité sur le bon cadeau."
+  },
+  {
+    "id": 217,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Que faire si le transporteur laisse le colis sans signature ?",
+    "answer": "Si le colis a été laissé sans signature, vérifiez l'endroit indiqué par le transporteur et contactez le support si vous ne le trouvez pas."
+  },
+  {
+    "id": 218,
+    "language": "FR",
+    "category": "Paiements",
+    "question": "Comment puis-je ajouter une carte d'entreprise pour facturation ?",
+    "answer": "Ajoutez la carte dans 'Méthodes de paiement' et sélectionnez l'option 'Facturation entreprise' si disponible."
+  },
+  {
+    "id": 219,
+    "language": "FR",
+    "category": "Compte",
+    "question": "Comment puis-je consulter l'historique des commandes de mon équipe ?",
+    "answer": "Les administrateurs d'équipe peuvent consulter l'historique des commandes dans 'Compte > Activité de l'équipe'."
+  },
+  {
+    "id": 220,
+    "language": "ES",
+    "category": "Devoluciones",
+    "question": "¿Qué hago si el artículo devuelto no aparece como recibido?",
+    "answer": "Si el seguimiento indica entrega pero no aparece como recibido, contacta con soporte con el número de seguimiento y la información del envío."
+  },
+  {
+    "id": 221,
+    "language": "ES",
+    "category": "Envío",
+    "question": "¿Puedo solicitar entrega en un punto de recogida específico?",
+    "answer": "Algunos transportistas permiten seleccionar puntos de recogida. Elige la opción si está disponible durante el proceso de compra."
+  },
+  {
+    "id": 222,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Cómo puedo actualizar la información fiscal de mi empresa para facturación?",
+    "answer": "Actualiza los datos fiscales en 'Cuenta > Facturación' o contacta con soporte para asistencia en facturación empresarial."
+  },
+  {
+    "id": 223,
+    "language": "ES",
+    "category": "Cuenta",
+    "question": "¿Puedo limitar el acceso de ciertos usuarios en mi cuenta empresarial?",
+    "answer": "Sí, los administradores pueden asignar roles y permisos desde 'Configuración de equipo' para controlar el acceso."
+  },
+  {
+    "id": 224,
+    "language": "EN",
+    "category": "Returns",
+    "question": "Do you accept returns from international customers?",
+    "answer": "We accept international returns in many regions; return shipping and customs may apply. Contact support for instructions and eligibility."
+  },
+  {
+    "id": 225,
+    "language": "EN",
+    "category": "Refunds",
+    "question": "Can I get an expedited refund for urgent cases?",
+    "answer": "Expedited refunds are considered in exceptional circumstances. Contact support with your order details and reason for urgency."
+  },
+  {
+    "id": 226,
+    "language": "EN",
+    "category": "Shipping",
+    "question": "What carriers do you use for international shipping?",
+    "answer": "We partner with major carriers such as DHL, UPS, and national postal services. Carrier options depend on destination and service level."
+  },
+  {
+    "id": 227,
+    "language": "EN",
+    "category": "Payments",
+    "question": "How do I dispute a charge on my account?",
+    "answer": "If you see an unauthorized charge, contact support immediately and your bank to dispute the transaction. Provide order details to help our investigation."
+  },
+  {
+    "id": 228,
+    "language": "EN",
+    "category": "Account Management",
+    "question": "How do I set spending limits for team members?",
+    "answer": "Team administrators can set spending limits per user in 'Team Settings' to control purchases and approvals."
+  },
+  {
+    "id": 229,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why is my device not recognized by my computer?",
+    "answer": "Ensure drivers are installed and the cable/port is functional. Try a different cable or port and consult the support page for driver downloads."
+  },
+  {
+    "id": 230,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Does the warranty cover software issues?",
+    "answer": "Warranty coverage for software varies; many software issues are supported via updates and patches. Contact technical support for software troubleshooting."
+  },
+  {
+    "id": 231,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How long do you retain my account data after deletion?",
+    "answer": "Retention periods vary by data type and legal requirements. After deletion requests, we remove personal data within the timeframe specified in our privacy policy."
+  },
+  {
+    "id": 232,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I request a different delivery address for future orders?",
+    "answer": "Yes, add multiple addresses in 'Account > Addresses' and select the preferred address at checkout for future orders."
+  },
+  {
+    "id": 233,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Do you offer price matching if I find a lower price elsewhere?",
+    "answer": "Price matching policies vary. Contact support with the competitor's offer and we'll review eligibility based on our price match terms."
+  },
+  {
+    "id": 234,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Can I change my subscription tier mid-cycle?",
+    "answer": "You can upgrade or downgrade subscription tiers; billing adjustments will be applied according to the subscription terms."
+  },
+  {
+    "id": 235,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Are replacement batteries available for older models?",
+    "answer": "Replacement batteries may be available for many models. Check the product support page or contact support with your model number."
+  },
+  {
+    "id": 236,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "What is the lead time for custom bulk orders?",
+    "answer": "Lead times depend on product and customization. Provide specifications to our sales team for an accurate lead time estimate."
+  },
+  {
+    "id": 237,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "Will I be notified if my delivery is rescheduled?",
+    "answer": "Yes, we notify customers of rescheduled deliveries via email and tracking updates with the carrier."
+  },
+  {
+    "id": 238,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "How do I cancel a subscription renewal?",
+    "answer": "Cancel the subscription in 'Account > Subscriptions' before the renewal date to prevent the next charge."
+  },
+  {
+    "id": 239,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can I purchase a physical gift card in-store?",
+    "answer": "Physical gift card availability varies by region and store. Check local store listings or contact customer service for availability."
+  },
+  {
+    "id": 240,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "Can loyalty points be transferred between accounts?",
+    "answer": "Points transfer policies vary. Typically, points are non-transferable, but business accounts may have special arrangements—contact support."
+  },
+  {
+    "id": 241,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Do you use recyclable materials for packaging?",
+    "answer": "We prioritize recyclable and responsibly sourced packaging where possible. Packaging materials are listed on the product or shipping information pages."
+  },
+  {
+    "id": 242,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Can you ship with duties prepaid for international customers?",
+    "answer": "In some regions we offer DDP (Delivered Duty Paid) options. Select DDP at checkout if available for your destination."
+  },
+  {
+    "id": 243,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "How often do you restock popular items?",
+    "answer": "Restock frequency varies by supplier and demand. Use 'Notify me' on product pages to receive restock alerts."
+  },
+  {
+    "id": 244,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "Do you offer one-on-one accessibility support for purchases?",
+    "answer": "Yes, contact our accessibility support team for personalized assistance with purchases and accommodations."
+  },
+  {
+    "id": 245,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "Can invoices be issued to a different billing contact?",
+    "answer": "Yes, specify the billing contact details during checkout or request a change via support for issued invoices."
+  },
+  {
+    "id": 246,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "Can I subscribe to restock alerts for multiple variants of a product?",
+    "answer": "Yes, subscribe to restock alerts for each variant on the product page to receive notifications for the specific variant you want."
+  },
+  {
+    "id": 247,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "Do you offer gift messages with orders?",
+    "answer": "Gift message options are available at checkout for eligible orders. Enter your message in the gift message field."
+  },
+  {
+    "id": 248,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "How do I escalate an unresolved support ticket?",
+    "answer": "Reply to your existing ticket requesting escalation or contact support and reference your ticket number to request higher-level review."
+  },
+  {
+    "id": 249,
+    "language": "EN",
+    "category": "Returns",
+    "question": "Can I return an item purchased from a third-party seller on your marketplace?",
+    "answer": "Return policies for marketplace sellers vary. Check the seller's return policy on the product page or contact marketplace support for assistance."
+  },
+  {
+    "id": 250,
+    "language": "EN",
+    "category": "Refunds",
+    "question": "Will I be notified when my refund is issued?",
+    "answer": "Yes, you will receive an email notification when your refund has been processed and issued to your payment method."
+  },
+  {
+    "id": 251,
+    "language": "EN",
+    "category": "Returns",
+    "question": "What is the process for returning an item bought during a flash sale?",
+    "answer": "Flash sale items can be returned within our standard return window unless the promotion states otherwise. Initiate a return from your orders page and follow the provided instructions."
+  },
+  {
+    "id": 252,
+    "language": "EN",
+    "category": "Refunds",
+    "question": "Can I request a refund to a different card than the one used for purchase?",
+    "answer": "Refunds are normally issued to the original payment method. If that is not possible, contact support and we will work with you to find an alternative solution."
+  },
+  {
+    "id": 253,
+    "language": "EN",
+    "category": "Shipping",
+    "question": "How do I change the carrier for my shipment before it ships?",
+    "answer": "Carrier changes depend on fulfillment status and available options. Contact support immediately with your order number and preferred carrier and we'll check feasibility."
+  },
+  {
+    "id": 254,
+    "language": "EN",
+    "category": "Payments",
+    "question": "Why does my bank block the transaction even though card details are correct?",
+    "answer": "Banks may block transactions for security reasons. Contact your bank to authorize the payment and try again, or use an alternative payment method."
+  },
+  {
+    "id": 255,
+    "language": "EN",
+    "category": "Account Management",
+    "question": "How do I enable email alerts for order status updates?",
+    "answer": "Go to 'Account > Notifications' and enable order status emails. Ensure your email address is verified to receive updates."
+  },
+  {
+    "id": 256,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "The product's companion app won't pair with the device, what should I check?",
+    "answer": "Ensure Bluetooth is enabled, the device is charged, and the app has necessary permissions. Restart both device and phone and try pairing again."
+  },
+  {
+    "id": 257,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "What documentation is needed to validate a warranty claim?",
+    "answer": "Provide proof of purchase, product serial number, and photos or videos of the defect. Additional information may be requested during claim review."
+  },
+  {
+    "id": 258,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do I opt out of data sharing with partners?",
+    "answer": "Update your privacy preferences in 'Account > Privacy' to limit data sharing with partners. You can also contact privacy@example.com for assistance."
+  },
+  {
+    "id": 259,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I split my order into multiple shipments intentionally?",
+    "answer": "You can request split shipments for large orders by contacting support before fulfillment. Additional shipping fees may apply."
+  },
+  {
+    "id": 260,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Are employee discounts available for family members?",
+    "answer": "Employee discount eligibility varies by program. Check your company policy or contact HR for details on extending discounts to family members."
+  },
+  {
+    "id": 261,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "How do I change the billing date for my subscription?",
+    "answer": "Subscription billing dates can sometimes be adjusted in 'Account > Subscriptions'. If not available, contact support to request a billing date change."
+  },
+  {
+    "id": 262,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Does this product support third-party accessories?",
+    "answer": "Compatibility with third-party accessories varies. Check the product compatibility list or contact support with the accessory model for confirmation."
+  },
+  {
+    "id": 263,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Can I request custom branding for bulk orders?",
+    "answer": "Custom branding is available for qualifying bulk orders. Contact our sales team with specifications and quantities to discuss options and pricing."
+  },
+  {
+    "id": 264,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "What compensation is available for significant shipping delays?",
+    "answer": "Compensation depends on the cause and our policies. Contact support with your order details and we will review the case and offer appropriate remedies."
+  },
+  {
+    "id": 265,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "How do I cancel an order placed by mistake?",
+    "answer": "If the order hasn't shipped, contact support immediately with your order number to request cancellation. If it has shipped, follow the returns process."
+  },
+  {
+    "id": 266,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can I reload a digital gift card balance?",
+    "answer": "Reloading policies vary. If reloads are supported, you'll find the option in 'Account > Gift Cards' or contact support for assistance."
+  },
+  {
+    "id": 267,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "How do I check my loyalty tier status?",
+    "answer": "Your loyalty tier and benefits are displayed in 'Account > Loyalty'. You can also view recent activity and points balance there."
+  },
+  {
+    "id": 268,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Can I request minimal packaging to reduce waste?",
+    "answer": "Select the 'Minimal packaging' option at checkout where available. We will pack your order using fewer materials when possible."
+  },
+  {
+    "id": 269,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "How are customs duties calculated for my order?",
+    "answer": "Customs duties are calculated by the destination country's customs authority based on item value, classification, and local regulations."
+  },
+  {
+    "id": 270,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Can I pre-order an out-of-stock item and lock in the current price?",
+    "answer": "Preorder policies vary. Some preorders lock in price, while others may be subject to price changes. Check the preorder terms on the product page."
+  },
+  {
+    "id": 271,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "هل يمكنني إرجاع منتج تم شراؤه من بائع طرف ثالث عبر السوق؟",
+    "answer": "سياسة الإرجاع تعتمد على البائع. راجع صفحة البائع أو تواصل مع دعم السوق للحصول على تعليمات الإرجاع الخاصة بالبائع."
+  },
+  {
+    "id": 272,
+    "language": "AR",
+    "category": "الشحن",
+    "question": "هل يمكنني طلب توصيل في وقت محدد خلال اليوم؟",
+    "answer": "بعض المناطق تقدم خيارات نافذة زمنية للتوصيل. تحقق من خيارات الشحن المتاحة عند الدفع."
+  },
+  {
+    "id": 273,
+    "language": "AR",
+    "category": "المدفوعات",
+    "question": "كيف أتحقق من حالة استرداد المبلغ؟",
+    "answer": "ستتلقى إشعارًا عبر البريد الإلكتروني عند معالجة الاسترداد. يمكنك أيضًا مراجعة حالة الاسترداد في صفحة 'طلباتي'."
+  },
+  {
+    "id": 274,
+    "language": "AR",
+    "category": "إدارة الحساب",
+    "question": "كيف أضيف عنوان تسليم متعدد لحسابي؟",
+    "answer": "اذهب إلى 'الحساب > العناوين' واختر 'إضافة عنوان' لإدخال وحفظ عناوين تسليم متعددة."
+  },
+  {
+    "id": 275,
+    "language": "AR",
+    "category": "مشكلات فنية",
+    "question": "هل تقدمون تحديثات أمان منتظمة للمنتجات؟",
+    "answer": "نصدر تحديثات أمان وبرامج ثابتة بانتظام. تحقق من صفحة الدعم للمنتج لتنزيل أحدث التحديثات."
+  },
+  {
+    "id": 276,
+    "language": "AR",
+    "category": "الضمان",
+    "question": "هل يمكن تمديد الضمان بعد انتهاء الفترة الأساسية؟",
+    "answer": "قد تتوفر خيارات تمديد الضمان لفترة محددة بعد الشراء. تحقق من صفحة المنتج أو تواصل مع الدعم لمعرفة الخيارات."
+  },
+  {
+    "id": 277,
+    "language": "AR",
+    "category": "الخصوصية",
+    "question": "كيف أطلب نسخة من بياناتي الشخصية؟",
+    "answer": "قدّم طلبًا للوصول إلى البيانات عبر صفحة الخصوصية أو راسل privacy@example.com وسنزوّدك بنسخة من بياناتك وفقًا للسياسات."
+  },
+  {
+    "id": 278,
+    "language": "AR",
+    "category": "الطلبات",
+    "question": "هل يمكنني إضافة ملاحظة تسليم خاصة للسائق؟",
+    "answer": "نعم، أضف ملاحظة التسليم أثناء عملية الدفع في حقل 'تعليمات التسليم' وسنحاول توصيلها للسائق."
+  },
+  {
+    "id": 279,
+    "language": "FR",
+    "category": "Retours",
+    "question": "Puis-je retourner un article acheté avec une remise spéciale ?",
+    "answer": "Les retours sont généralement acceptés même pour les articles en promotion, sauf indication contraire dans les conditions de la promotion."
+  },
+  {
+    "id": 280,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Comment puis-je suivre plusieurs colis d'une même commande ?",
+    "answer": "Vous recevrez un numéro de suivi pour chaque colis. Utilisez chaque numéro pour suivre les colis séparément."
+  },
+  {
+    "id": 281,
+    "language": "FR",
+    "category": "Paiements",
+    "question": "Puis-je enregistrer une carte pour paiements futurs ?",
+    "answer": "Oui, vous pouvez enregistrer une carte dans 'Méthodes de paiement' pour accélérer les paiements futurs."
+  },
+  {
+    "id": 282,
+    "language": "FR",
+    "category": "Compte",
+    "question": "Comment puis-je ajouter une adresse de facturation différente ?",
+    "answer": "Ajoutez une adresse de facturation dans 'Compte > Adresses' et sélectionnez-la lors du paiement."
+  },
+  {
+    "id": 283,
+    "language": "FR",
+    "category": "Technique",
+    "question": "Que faire si mon appareil ne se met pas à jour automatiquement ?",
+    "answer": "Vérifiez la connexion Internet et l'espace disponible. Si nécessaire, téléchargez la mise à jour manuellement depuis la page de support."
+  },
+  {
+    "id": 284,
+    "language": "FR",
+    "category": "Garantie",
+    "question": "Comment suivre l'état de ma demande de garantie ?",
+    "answer": "Consultez votre demande dans le portail de support pour voir l'état ou contactez le support avec votre numéro de dossier."
+  },
+  {
+    "id": 285,
+    "language": "FR",
+    "category": "Confidentialité",
+    "question": "Puis-je restreindre l'utilisation de mes données pour la recherche produit ?",
+    "answer": "Oui, ajustez vos préférences de confidentialité dans votre compte pour limiter l'utilisation de vos données à des fins de recherche."
+  },
+  {
+    "id": 286,
+    "language": "ES",
+    "category": "Devoluciones",
+    "question": "¿Puedo devolver un artículo si cambié de opinión?",
+    "answer": "Sí, puedes devolver la mayoría de los artículos dentro del período de devolución si están en condiciones originales. Revisa la política específica del producto."
+  },
+  {
+    "id": 287,
+    "language": "ES",
+    "category": "Envío",
+    "question": "¿Puedo programar la entrega para una fecha futura específica?",
+    "answer": "Algunas regiones permiten programar entregas. Selecciona la opción de fecha de entrega si está disponible durante el pago."
+  },
+  {
+    "id": 288,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Cómo actualizo mi método de pago predeterminado?",
+    "answer": "Ve a 'Cuenta > Métodos de pago' y selecciona 'Establecer como predeterminado' junto a la tarjeta que prefieras."
+  },
+  {
+    "id": 289,
+    "language": "ES",
+    "category": "Cuenta",
+    "question": "¿Cómo puedo cambiar la dirección de facturación de una tarjeta guardada?",
+    "answer": "Edita la información de la tarjeta en 'Métodos de pago' y actualiza la dirección de facturación asociada."
+  },
+  {
+    "id": 290,
+    "language": "ES",
+    "category": "Técnico",
+    "question": "¿Qué hago si la aplicación muestra un error desconocido?",
+    "answer": "Captura la pantalla del error y contacta con soporte proporcionando el mensaje y los pasos para reproducirlo para que podamos investigar."
+  },
+  {
+    "id": 291,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "Do you provide screen-reader friendly product pages?",
+    "answer": "Yes, our product pages are designed to be screen-reader friendly. If you encounter accessibility issues, contact our accessibility team for support."
+  },
+  {
+    "id": 292,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "How do I request a VAT invoice after purchase?",
+    "answer": "Request a VAT invoice via 'Order Details' or contact billing@example.com with your order number and company details."
+  },
+  {
+    "id": 293,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "Can I receive SMS restock alerts instead of email?",
+    "answer": "SMS restock alerts may be available in some regions. Opt in to SMS notifications in your account preferences if the option is offered."
+  },
+  {
+    "id": 294,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "What happens if an item in my order is discontinued after I purchase?",
+    "answer": "If an item is discontinued before shipping, we will notify you and offer alternatives, a refund, or store credit depending on availability."
+  },
+  {
+    "id": 295,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "How do I provide feedback about my support experience?",
+    "answer": "After a support interaction you may receive a feedback survey. You can also email support@example.com with detailed feedback."
+  },
+  {
+    "id": 296,
+    "language": "EN",
+    "category": "Returns",
+    "question": "Can I return an item purchased with a promotional bundle discount?",
+    "answer": "Bundle returns are handled per bundle terms. Returning part of a bundle may affect the discount; check the bundle policy or contact support."
+  },
+  {
+    "id": 297,
+    "language": "EN",
+    "category": "Refunds",
+    "question": "Will I be refunded shipping insurance if I return my order?",
+    "answer": "Shipping insurance refunds depend on the insurance terms. Contact support with your order details and we will review the insurance refund eligibility."
+  },
+  {
+    "id": 298,
+    "language": "EN",
+    "category": "Shipping",
+    "question": "Do you offer white-glove delivery for large items?",
+    "answer": "White-glove delivery is available for select large items and regions. Choose the service at checkout or contact support for availability and pricing."
+  },
+  {
+    "id": 299,
+    "language": "EN",
+    "category": "Payments",
+    "question": "How do I add a purchase order number to my order?",
+    "answer": "Enter the purchase order number in the billing section during checkout or provide it to support for business orders."
+  },
+  {
+    "id": 300,
+    "language": "EN",
+    "category": "Account Management",
+    "question": "How do I set up multi-factor authentication for my account?",
+    "answer": "Enable multi-factor authentication in 'Account > Security' and follow the steps to link an authenticator app or phone number."
+  },
+  {
+    "id": 301,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "هل يمكنني استبدال منتج بمنتج مختلف من نفس الطلب؟",
+    "answer": "نعم، إذا كان المنتج البديل متاحًا يمكنك بدء عملية استبدال عبر حسابك أو التواصل مع الدعم لترتيب الاستبدال."
+  },
+  {
+    "id": 302,
+    "language": "AR",
+    "category": "الشحن",
+    "question": "هل تقدمون خدمة تتبع عبر الرسائل النصية؟",
+    "answer": "قد تتوفر إشعارات التتبع عبر الرسائل النصية في بعض المناطق. فعّل إشعارات SMS في إعدادات حسابك إذا كانت متاحة."
+  },
+  {
+    "id": 303,
+    "language": "AR",
+    "category": "المدفوعات",
+    "question": "هل يمكنني طلب فاتورة مفصلة بعد الشراء؟",
+    "answer": "نعم، يمكنك طلب فاتورة مفصلة عبر صفحة 'طلباتي' أو التواصل مع فريق الفوترة لتزويدك بالفاتورة المطلوبة."
+  },
+  {
+    "id": 304,
+    "language": "AR",
+    "category": "إدارة الحساب",
+    "question": "كيف أغير تفضيلات اللغة في حسابي؟",
+    "answer": "اذهب إلى 'إعدادات الحساب' واختر اللغة المفضلة من قائمة اللغات المتاحة ثم احفظ التغييرات."
+  },
+  {
+    "id": 305,
+    "language": "FR",
+    "category": "Retours",
+    "question": "Puis-je retourner un article acheté en cadeau por un remboursement ?",
+    "answer": "Oui, les retours de cadeaux sont possibles avec le reçu cadeau ou le numéro de commande. Le remboursement suit la méthode indiquée lors du retour."
+  },
+  {
+    "id": 306,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Puis-je demander une livraison sans contact ?",
+    "answer": "Oui, sélectionnez l'option 'Livraison sans contact' lors du paiement si elle est proposée pour votre adresse."
+  },
+  {
+    "id": 307,
+    "language": "FR",
+    "category": "Paiements",
+    "question": "Comment puis-je ajouter une carte d'entreprise pour pagos recurrentes ?",
+    "answer": "Ajoutez la carte dans 'Méthodes de paiement' et sélectionnez-la pour les paiements récurrents ou contactez le support pour assistance."
+  },
+  {
+    "id": 308,
+    "language": "ES",
+    "category": "Devoluciones",
+    "question": "¿Puedo devolver un artículo si el embalaje está dañado pero el producto está bien?",
+    "answer": "Si el embalaje está dañado, infórmanos y revisaremos el estado del producto. Si el producto está intacto, normalmente aceptamos la devolución según la política."
+  },
+  {
+    "id": 309,
+    "language": "ES",
+    "category": "Envío",
+    "question": "¿Puedo solicitar entrega sin contacto por motivos de seguridad?",
+    "answer": "Sí, selecciona la opción de entrega sin contacto en el proceso de pago si está disponible para tu dirección."
+  },
+  {
+    "id": 310,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Cómo puedo actualizar la información de mi empresa para facturación recurrente?",
+    "answer": "Actualiza los datos de facturación en 'Cuenta > Facturación' o contacta con soporte para configurar facturación recurrente con datos empresariales."
+  },
+  {
+    "id": 311,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why does my device show reduced performance after an update?",
+    "answer": "Performance changes can occur after updates due to new features or indexing. Restart the device, ensure the update completed, and contact support if performance does not improve."
+  },
+  {
+    "id": 312,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Can I get a loaner device while mine is under warranty repair?",
+    "answer": "Loaner device availability varies by region and product. Contact support to inquire about temporary replacement options during repair."
+  },
+  {
+    "id": 313,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do you handle data breaches and notifications?",
+    "answer": "We follow legal requirements for breach notification and will inform affected users promptly with steps to protect their accounts and data."
+  },
+  {
+    "id": 314,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I request a packing slip without prices for a gift shipment?",
+    "answer": "Yes, select the 'Hide prices on packing slip' option at checkout for gift shipments when available."
+  },
+  {
+    "id": 315,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Do you offer loyalty discounts for frequent buyers?",
+    "answer": "Loyalty discounts and perks are available through our loyalty program. Check your account for eligibility and available offers."
+  },
+  {
+    "id": 316,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Will I receive a pro-rated refund if I cancel mid-billing cycle?",
+    "answer": "Pro-rated refunds depend on the subscription terms. Review your subscription policy or contact support to confirm refund eligibility."
+  },
+  {
+    "id": 317,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Are there eco-friendly product alternatives available?",
+    "answer": "We offer eco-friendly alternatives for many categories. Use the 'Sustainability' filter on product pages to find environmentally friendly options."
+  },
+  {
+    "id": 318,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Can I request samples before placing a bulk order?",
+    "answer": "Sample availability varies. Contact sales with your request and we will advise on sample options and any associated costs."
+  },
+  {
+    "id": 319,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "How do you handle delays caused by weather events?",
+    "answer": "Weather-related delays are handled case-by-case. We monitor conditions and will update you via email and tracking; contact support for urgent concerns."
+  },
+  {
+    "id": 320,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "Can I cancel a digital subscription immediately and receive a refund?",
+    "answer": "Digital subscription refund policies vary. Contact support with your subscription details and reason for cancellation to review refund eligibility."
+  },
+  {
+    "id": 321,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can I send a gift card to someone via email on a future date?",
+    "answer": "Scheduled gift card delivery may be available. Choose the delivery date when purchasing a digital gift card if the option is offered."
+  },
+  {
+    "id": 322,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "Are there exclusive events for loyalty members?",
+    "answer": "We host exclusive promotions and events for loyalty members. Check your loyalty dashboard for upcoming member-only opportunities."
+  },
+  {
+    "id": 323,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Do you offer gift wrapping for fragile items?",
+    "answer": "Gift wrapping for fragile items is available with protective packaging. Select gift wrap at checkout and we will ensure safe packing."
+  },
+  {
+    "id": 324,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Can I prepay customs and duties to avoid delays?",
+    "answer": "Prepaying duties (DDP) may be available at checkout for certain destinations. Select the option if offered to simplify delivery."
+  },
+  {
+    "id": 325,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Do you offer alternatives when an item is out of stock?",
+    "answer": "Yes, we may suggest similar items or alternatives on the product page. Contact support for personalized recommendations."
+  },
+  {
+    "id": 326,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "How can I request accessible packaging for my order?",
+    "answer": "Contact support with your accessibility needs and we will accommodate packaging preferences where possible."
+  },
+  {
+    "id": 327,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "Can I receive invoices in multiple languages for international accounting?",
+    "answer": "Invoice language options depend on region. Contact billing@example.com to request invoices in a specific language for accounting purposes."
+  },
+  {
+    "id": 328,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "Can I subscribe to restock alerts for a product category instead of a single item?",
+    "answer": "Category-level restock alerts are not commonly available; subscribe to individual product alerts or contact support for bulk restock inquiries."
+  },
+  {
+    "id": 329,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "Do you offer expedited processing for business orders?",
+    "answer": "Expedited processing may be available for business accounts. Contact sales to arrange priority fulfillment for urgent business orders."
+  },
+  {
+    "id": 330,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "How do I request a transcript of a live chat conversation?",
+    "answer": "After the chat, you may receive an option to download the transcript. If not, request the transcript from support referencing the chat time and agent."
+  },
+  {
+    "id": 331,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "هل يمكنني استرداد مبلغ الشراء إذا تم إلغاء الطلب من طرفكم؟",
+    "answer": "نعم، إذا ألغينا الطلب ستتم معالجة استرداد المبلغ بالكامل إلى وسيلة الدفع الأصلية."
+  },
+  {
+    "id": 332,
+    "language": "AR",
+    "category": "الشحن",
+    "question": "هل يمكنني طلب تغليف هدية مع ملاحظة شخصية؟",
+    "answer": "نعم، اختر خيار تغليف الهدايا أثناء الدفع وأضف ملاحظتك الشخصية في حقل رسالة الهدية."
+  },
+  {
+    "id": 333,
+    "language": "FR",
+    "category": "Retours",
+    "question": "Comment retourner un article acheté en magasin physique via le site ?",
+    "answer": "Les retours en ligne d'articles achetés en magasin peuvent nécessiter une procédure différente. Contactez le support avec votre reçu pour instructions."
+  },
+  {
+    "id": 334,
+    "language": "ES",
+    "category": "Devoluciones",
+    "question": "¿Qué documentación necesito para una devolución internacional?",
+    "answer": "Para devoluciones internacionales, puede que necesites la factura comercial y documentación de aduana. Contacta con soporte para instrucciones específicas."
+  },
+  {
+    "id": 335,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why is my device not charging even when plugged in?",
+    "answer": "Check the power source, cable, and port for damage. Try a different cable and outlet; if the issue persists, contact support for diagnostics."
+  },
+  {
+    "id": 336,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Does the warranty cover software subscription issues bundled with the product?",
+    "answer": "Warranty typically covers hardware defects. Subscription or software issues are handled through support and subscription terms; contact support for assistance."
+  },
+  {
+    "id": 337,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do I request anonymization of my account data?",
+    "answer": "Submit an anonymization request via the privacy portal or contact privacy@example.com. We will guide you through verification and the anonymization process."
+  },
+  {
+    "id": 338,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I request a different delivery address after the order ships if the carrier allows it?",
+    "answer": "If the carrier supports address updates in transit, you may be able to change the delivery address via the carrier's tracking portal."
+  },
+  {
+    "id": 339,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Are there special discounts for non-profit organizations?",
+    "answer": "We offer programs for non-profits in some regions. Contact sales with your organization details to discuss eligibility and available discounts."
+  },
+  {
+    "id": 340,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Can I transfer my subscription to another account?",
+    "answer": "Subscription transfers depend on the service. Contact support with both account details to explore transfer options."
+  },
+  {
+    "id": 341,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Are there firmware rollback options if an update causes issues?",
+    "answer": "Rollback options depend on the product. Contact technical support for guidance and safe rollback procedures if available."
+  },
+  {
+    "id": 342,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Can you provide a certificate of origin for bulk shipments?",
+    "answer": "Certificates of origin can be provided for bulk shipments upon request. Contact sales with shipment details to arrange documentation."
+  },
+  {
+    "id": 343,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "How will I be informed if my delivery is rerouted?",
+    "answer": "You will receive an update via email and tracking if your delivery is rerouted. Check the tracking link for the latest status."
+  },
+  {
+    "id": 344,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "If I cancel a subscription, can I keep previously purchased content?",
+    "answer": "Access to purchased content typically remains per license terms. Subscription-based access may end upon cancellation; check your subscription agreement."
+  },
+  {
+    "id": 345,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can gift cards be used for subscription payments?",
+    "answer": "Gift card usage for subscriptions depends on the platform. Apply the gift card balance at checkout or contact support to confirm applicability."
+  },
+  {
+    "id": 346,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "How are loyalty points calculated for returns and refunds?",
+    "answer": "Points earned on returned items are typically deducted from your balance when a refund is processed. Check loyalty terms for details."
+  },
+  {
+    "id": 347,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Can I request allergen-free packaging materials for sensitive recipients?",
+    "answer": "If you have specific allergen concerns, contact support prior to shipping and we will attempt to accommodate your packaging requirements."
+  },
+  {
+    "id": 348,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Will you provide HS codes for customs clearance?",
+    "answer": "We can provide HS codes for most products to assist with customs clearance. Contact support or your account manager for the necessary documentation."
+  },
+  {
+    "id": 349,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Do you offer backorder tracking for large restocks?",
+    "answer": "For large restocks, we may provide estimated timelines and backorder tracking. Contact support for details on specific backorders."
+  },
+  {
+    "id": 350,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "How do I request priority support for a critical issue?",
+    "answer": "Priority support is available for certain account tiers. Contact support and indicate the critical nature of your issue; provide order and system details for expedited handling."
+  },
+  {
+    "id": 351,
+    "language": "EN",
+    "category": "Returns",
+    "question": "Can I return an item purchased during a clearance sale?",
+    "answer": "Clearance items are eligible for return unless the product page states otherwise. Please check the specific return terms on the product page or contact support for clarification."
+  },
+  {
+    "id": 352,
+    "language": "EN",
+    "category": "Refunds",
+    "question": "How long after I ship a return will I see the refund processed?",
+    "answer": "Once we receive and inspect the returned item, refunds are typically processed within 3-7 business days. Your bank may take additional time to post the credit."
+  },
+  {
+    "id": 353,
+    "language": "EN",
+    "category": "Shipping",
+    "question": "What shipping options are available for fragile items?",
+    "answer": "Fragile items are shipped with additional protective packaging and may offer insured or white-glove delivery options. Select the appropriate shipping method at checkout if available."
+  },
+  {
+    "id": 354,
+    "language": "EN",
+    "category": "Payments",
+    "question": "Can I use multiple payment methods for one order?",
+    "answer": "We currently support a single payment method per order. If you need to split payment, contact support to explore alternative arrangements."
+  },
+  {
+    "id": 355,
+    "language": "EN",
+    "category": "Account Management",
+    "question": "How do I change my account email if I no longer have access to the old one?",
+    "answer": "Contact customer support with verification details and we will assist in updating your account email after confirming your identity."
+  },
+  {
+    "id": 356,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "The product's firmware update bricked my device. What should I do?",
+    "answer": "Contact technical support immediately with device details and error messages. We will guide you through recovery steps or arrange service if necessary."
+  },
+  {
+    "id": 357,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Does the warranty cover replacement parts shipping costs?",
+    "answer": "Shipping costs for warranty replacements vary by region and case. If the replacement is covered, we often cover shipping; support will confirm during claim processing."
+  },
+  {
+    "id": 358,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do I request deletion of my account data under GDPR?",
+    "answer": "Submit a data deletion request via the privacy portal or email privacy@example.com. We will verify your identity and process the request in accordance with GDPR timelines."
+  },
+  {
+    "id": 359,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I add a gift message after placing my order?",
+    "answer": "If the order has not yet shipped, contact support and we will attempt to add a gift message. Once shipped, changes may not be possible."
+  },
+  {
+    "id": 360,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Are student discounts stackable with seasonal promotions?",
+    "answer": "Student discounts typically cannot be combined with other promotions unless explicitly stated. Check the promotion terms or contact support for exceptions."
+  },
+  {
+    "id": 361,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Can I switch subscription billing from monthly to annual mid-term?",
+    "answer": "You can usually change billing cadence; pro-rated charges or credits may apply. Update your subscription settings or contact support to assist with the change."
+  },
+  {
+    "id": 362,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Is there a compatibility list for third-party accessories?",
+    "answer": "Compatibility information is provided on the product support page. If you need confirmation for a specific accessory, contact support with model numbers."
+  },
+  {
+    "id": 363,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Do you provide volume discounts for educational institutions?",
+    "answer": "Yes, we offer special pricing for educational institutions. Contact our sales team with your requirements and proof of eligibility for a tailored quote."
+  },
+  {
+    "id": 364,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "What should I do if my package is stuck at customs?",
+    "answer": "Contact the carrier with your tracking number and provide any requested documentation. If you need assistance, contact our support team and we will help liaise with the carrier."
+  },
+  {
+    "id": 365,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "Can I cancel an order placed with expedited shipping?",
+    "answer": "Cancellation is possible if the order has not yet shipped. Contact support immediately; expedited orders often process quickly so time is critical."
+  },
+  {
+    "id": 366,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can I use a gift card to pay for shipping costs?",
+    "answer": "Yes, gift card balances can typically be applied to the total order amount, including shipping, unless restricted by the card terms."
+  },
+  {
+    "id": 367,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "How do I earn bonus points during promotions?",
+    "answer": "Promotional bonus points are awarded according to the promotion terms. Ensure you are logged in and meet any eligibility criteria during the promotional period."
+  },
+  {
+    "id": 368,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Can I request fragile labeling for my package?",
+    "answer": "Fragile labeling is applied automatically for eligible items. If you have special packaging requests, contact support before shipping and we will do our best to accommodate."
+  },
+  {
+    "id": 369,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Will I be charged VAT on an international order?",
+    "answer": "VAT and import duties depend on the destination country's regulations. These charges are typically the responsibility of the recipient unless DDP is selected."
+  },
+  {
+    "id": 370,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "How can I request a backorder for an out-of-stock item?",
+    "answer": "If backorders are accepted, you can place a preorder or sign up for restock notifications on the product page. Contact support for assistance with large backorders."
+  },
+  {
+    "id": 371,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "هل يمكنني استرجاع منتج تم شراؤه عبر تطبيق الجوال؟",
+    "answer": "نعم، يمكن بدء عملية الإرجاع من خلال حسابك سواء تم الشراء عبر التطبيق أو الموقع. اتبع خطوات الإرجاع في صفحة الطلبات."
+  },
+  {
+    "id": 372,
+    "language": "AR",
+    "category": "الشحن",
+    "question": "هل يمكنني اختيار شركة شحن معينة عند الطلب؟",
+    "answer": "خيارات شركات الشحن تعتمد على الوجهة ونوع الخدمة. إذا كانت هناك خيارات متعددة ستظهر عند صفحة الدفع."
+  },
+  {
+    "id": 373,
+    "language": "FR",
+    "category": "Paiements",
+    "question": "Puis-je obtenir un remboursement sur un compte bancaire différent ?",
+    "answer": "Les remboursements sont généralement effectués sur le mode de paiement initial. Si cela n'est pas possible, contactez le support pour trouver une solution alternative."
+  },
+  {
+    "id": 374,
+    "language": "ES",
+    "category": "Cuenta",
+    "question": "¿Cómo puedo cambiar la dirección de correo asociada a mi cuenta?",
+    "answer": "Contacta con soporte con la verificación necesaria y te ayudaremos a actualizar la dirección de correo si ya no tienes acceso a la anterior."
+  },
+  {
+    "id": 375,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why does my device disconnect from Wi-Fi intermittently?",
+    "answer": "Intermittent disconnections can be caused by signal interference, router settings, or firmware issues. Try restarting your router and device, and update firmware. Contact support if the issue continues."
+  },
+  {
+    "id": 376,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "How do I check if my product is still under warranty?",
+    "answer": "Check your order history for purchase date or enter the product serial number on the warranty lookup page. Contact support with proof of purchase if you need assistance."
+  },
+  {
+    "id": 377,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "Will my purchase history be shared with advertisers?",
+    "answer": "We do not sell personal purchase histories to advertisers. Limited, anonymized data may be used for analytics; review our privacy policy for details."
+  },
+  {
+    "id": 378,
+    "language": "EN",
+    "category": "Orders",
+    "question": "What should I do if my order arrives damaged?",
+    "answer": "Take photos of the damage and packaging, then contact support with your order number. We will arrange a replacement or refund after reviewing the evidence."
+  },
+  {
+    "id": 379,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "How do I apply a corporate discount to my order?",
+    "answer": "Corporate discounts are applied via account settings or a promo code provided by your company. Contact your account manager or support for assistance."
+  },
+  {
+    "id": 380,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Can I gift a subscription to someone else?",
+    "answer": "Gift subscriptions may be available depending on the service. Check the subscription product page for gifting options or contact support to arrange a gift."
+  },
+  {
+    "id": 381,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Are there safety certifications for this product?",
+    "answer": "Safety certifications are listed on the product page under specifications. Contact support if you need official certification documents."
+  },
+  {
+    "id": 382,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Can you provide net 30 payment terms for bulk purchases?",
+    "answer": "Net 30 terms may be available for approved business accounts. Contact sales with your company details to apply for credit terms."
+  },
+  {
+    "id": 383,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "Will I be notified if my delivery window changes?",
+    "answer": "Yes, we send updates via email and SMS when delivery windows change. Check your tracking link for the most current information."
+  },
+  {
+    "id": 384,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "If I cancel an order, how long until I receive confirmation?",
+    "answer": "Cancellation confirmations are typically sent immediately by email. If you do not receive one, contact support with your order number."
+  },
+  {
+    "id": 385,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can I check the remaining balance of a physical gift card in-store?",
+    "answer": "Many stores can check physical gift card balances at the register. Alternatively, check online using the gift card code if the option is provided."
+  },
+  {
+    "id": 386,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "Do loyalty points apply to shipping and taxes?",
+    "answer": "Points typically apply to product subtotal and may not apply to shipping or taxes. Check your loyalty program terms for exact rules."
+  },
+  {
+    "id": 387,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Can I request a specific delivery label for privacy reasons?",
+    "answer": "We offer discreet packaging options in some regions. Select privacy packaging at checkout when available or contact support to request discretion."
+  },
+  {
+    "id": 388,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Who pays customs brokerage fees for international shipments?",
+    "answer": "Customs brokerage fees are typically the responsibility of the recipient unless DDP is selected. Contact support for options in your region."
+  },
+  {
+    "id": 389,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Will you restock seasonal items next year?",
+    "answer": "Seasonal restocks depend on supplier planning. Sign up for restock notifications or contact support for estimated availability."
+  },
+  {
+    "id": 390,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "Do you provide accessible checkout options for screen readers?",
+    "answer": "Our checkout is designed to be accessible; if you encounter issues, contact accessibility support and we will assist with completing your purchase."
+  },
+  {
+    "id": 391,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "Can I receive invoices in PDF format automatically?",
+    "answer": "Invoices are available for download in PDF from your order history. For automatic delivery, contact billing to set up scheduled invoice emails."
+  },
+  {
+    "id": 392,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "How quickly do restock alerts arrive after inventory is updated?",
+    "answer": "Restock alerts are sent shortly after inventory is updated. Timing can vary by region and system processing, so act quickly when you receive a notification."
+  },
+  {
+    "id": 393,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "Do you offer gift packaging for corporate bulk orders?",
+    "answer": "Corporate gift packaging can be arranged for bulk orders. Contact sales to discuss customization, timelines, and pricing."
+  },
+  {
+    "id": 394,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "How do I escalate a delayed warranty repair?",
+    "answer": "Reply to your warranty ticket requesting escalation or contact support with your repair reference number and explain the urgency for priority handling."
+  },
+  {
+    "id": 395,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "ما هي خطوات استرداد المبلغ بعد إرجاع المنتج؟",
+    "answer": "بعد استلام وفحص المنتج، نقوم بمعالجة الاسترداد خلال 3-7 أيام عمل. قد تستغرق البنوك وقتًا إضافيًا لإظهار المبلغ."
+  },
+  {
+    "id": 396,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Puis-je demander une livraison à une adresse commerciale différente ?",
+    "answer": "Oui, vous pouvez ajouter plusieurs adresses dans votre compte et sélectionner l'adresse commerciale souhaitée lors du paiement."
+  },
+  {
+    "id": 397,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Puedo pagar con transferencia bancaria internacional?",
+    "answer": "Aceptamos transferencias bancarias para pedidos empresariales en algunos casos. Contacta con ventas para instrucciones y plazos."
+  },
+  {
+    "id": 398,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why is my device firmware update taking unusually long?",
+    "answer": "Long update times can be due to slow internet, large update size, or server load. Ensure a stable connection and avoid interrupting the update; contact support if it stalls."
+  },
+  {
+    "id": 399,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Can I purchase accidental damage protection separately?",
+    "answer": "Accidental damage protection is often available as an add-on. Check the product page or contact support to purchase protection plans."
+  },
+  {
+    "id": 400,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do I update my marketing communication preferences?",
+    "answer": "Update your preferences in 'Account > Notifications' or use the unsubscribe link in marketing emails to manage communication preferences."
+  },
+  {
+    "id": 401,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I request a different delivery carrier after shipment?",
+    "answer": "Carrier changes after shipment depend on the carrier's policies. Contact the carrier with your tracking number or reach out to support for assistance."
+  },
+  {
+    "id": 402,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "How do I apply a bulk discount code to multiple SKUs?",
+    "answer": "Bulk discount codes apply at checkout according to the promotion rules. If you have multiple SKUs, ensure the code terms cover all items or contact sales for a custom quote."
+  },
+  {
+    "id": 403,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Will I receive reminders before subscription renewals?",
+    "answer": "Yes, we send renewal reminders via email prior to charging your payment method. Check your notification settings to ensure reminders are enabled."
+  },
+  {
+    "id": 404,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Are there multilingual user manuals available?",
+    "answer": "Many product manuals are available in multiple languages on the support page. Contact support if you need a manual in a specific language."
+  },
+  {
+    "id": 405,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Can you handle international bulk shipping and customs clearance?",
+    "answer": "Yes, we can coordinate international bulk shipments and provide documentation for customs. Contact sales to arrange logistics and documentation."
+  },
+  {
+    "id": 406,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "Do you offer shipment tracking for international freight?",
+    "answer": "International freight shipments include tracking and status updates. Your sales or logistics contact will provide tracking details and estimated arrival."
+  },
+  {
+    "id": 407,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "If I cancel a preorder, will I be charged a fee?",
+    "answer": "Preorder cancellation fees depend on the product and terms. Check the preorder policy on the product page or contact support for details."
+  },
+  {
+    "id": 408,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can I transfer a gift card balance to another user?",
+    "answer": "Gift card transferability varies. Contact support with the gift card details to explore transfer options if supported."
+  },
+  {
+    "id": 409,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "Are there tiered benefits for higher loyalty levels?",
+    "answer": "Yes, higher loyalty tiers unlock additional benefits such as exclusive discounts, early access, and priority support. Check your loyalty dashboard for details."
+  },
+  {
+    "id": 410,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Do you offer allergy-safe packaging for food items?",
+    "answer": "For food items, we follow safety and labeling standards. If you have allergy concerns, contact support before ordering to discuss safe packaging options."
+  },
+  {
+    "id": 411,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Can I get an estimate of duties before placing an international order?",
+    "answer": "We can provide estimates for duties in some regions. Contact support with destination details and product SKUs for an estimate."
+  },
+  {
+    "id": 412,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Is there a waitlist for limited-edition items?",
+    "answer": "Limited-edition items may have waitlists or raffle systems. Check the product page for sign-up options or contact support for details."
+  },
+  {
+    "id": 413,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "Do you provide alternative text for product images for screen readers?",
+    "answer": "We include alt text for product images to support screen readers. If you encounter missing descriptions, report them to accessibility support."
+  },
+  {
+    "id": 414,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "Can I request consolidated invoicing for monthly purchases?",
+    "answer": "Consolidated invoicing may be available for business accounts. Contact billing to set up consolidated invoices and discuss terms."
+  },
+  {
+    "id": 415,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "Can I receive restock alerts for multiple email addresses?",
+    "answer": "Restock alerts are typically tied to a single account/email. For multiple recipients, consider sharing the notification or contacting support for bulk alert options."
+  },
+  {
+    "id": 416,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "How do you prioritize orders during peak seasons?",
+    "answer": "We prioritize orders based on shipping method and processing time. Business and expedited orders may receive priority; contact support for urgent needs."
+  },
+  {
+    "id": 417,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "Can I request a transcript of my support ticket history?",
+    "answer": "Yes, request a transcript via support and provide your account details; we will compile and provide your ticket history."
+  },
+  {
+    "id": 418,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "هل يمكنني استرجاع منتج إذا تغيرت مواصفاته بعد الشراء؟",
+    "answer": "إذا تغيرت مواصفات المنتج بشكل يؤثر على الاستخدام، تواصل مع الدعم وسنراجع الحالة ونقدم خيارات الاستبدال أو الإرجاع."
+  },
+  {
+    "id": 419,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Puis-je demander une livraison à une adresse de travail en dehors des heures ?",
+    "answer": "Les livraisons en dehors des heures normales peuvent être possibles selon le transporteur. Contactez le support pour vérifier les options disponibles."
+  },
+  {
+    "id": 420,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Puedo pagar con tarjeta de empresa y recibir factura a nombre de la empresa?",
+    "answer": "Sí, introduce los datos fiscales de la empresa durante el pago o solicita la factura empresarial a soporte tras la compra."
+  },
+  {
+    "id": 421,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why does my device report a sensor error intermittently?",
+    "answer": "Intermittent sensor errors can be due to firmware, environmental factors, or hardware faults. Restart the device, update firmware, and contact support with logs if the issue persists."
+  },
+  {
+    "id": 422,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Is shipping covered for warranty repairs sent from remote locations?",
+    "answer": "Shipping coverage for remote locations varies. Support will advise on shipping arrangements and any costs associated with warranty repairs."
+  },
+  {
+    "id": 423,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do you secure my account against unauthorized access?",
+    "answer": "We use encryption, multi-factor authentication options, and monitoring to protect accounts. Enable MFA and use strong passwords for added security."
+  },
+  {
+    "id": 424,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I request a specific delivery time slot for fragile items?",
+    "answer": "Delivery time slot options depend on carrier and region. Select available time slots at checkout or contact support for special arrangements."
+  },
+  {
+    "id": 425,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Do you offer promotional codes for first-time buyers?",
+    "answer": "We sometimes offer welcome promotions for new customers. Check the homepage or sign up for our newsletter to receive introductory offers."
+  },
+  {
+    "id": 426,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Can I receive a trial period before committing to a subscription?",
+    "answer": "Trial availability varies by subscription. Check the subscription product page for trial options or contact support to inquire about trials."
+  },
+  {
+    "id": 427,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Are there environmental impact details for this product?",
+    "answer": "Environmental impact and sustainability information is provided where available on the product page. Contact support for additional documentation."
+  },
+  {
+    "id": 428,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Can you provide custom packaging for corporate gifts?",
+    "answer": "Custom corporate packaging is available for bulk orders. Contact sales to discuss design, minimum quantities, and lead times."
+  },
+  {
+    "id": 429,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "Will I be compensated if my delivery misses a guaranteed date?",
+    "answer": "Compensation for missed guaranteed delivery depends on the shipping terms. Contact support with your order details and we will review the case."
+  },
+  {
+    "id": 430,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "Can I cancel a digital product purchase?",
+    "answer": "Digital product cancellations depend on licensing and usage. Contact support promptly to discuss cancellation and refund eligibility."
+  },
+  {
+    "id": 431,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Are gift cards refundable?",
+    "answer": "Gift cards are generally non-refundable. Check the gift card terms for exceptions or contact support for assistance."
+  },
+  {
+    "id": 432,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "Can I combine loyalty points with promotional discounts?",
+    "answer": "Combining points with promotions depends on program rules. The checkout will show applicable combinations; contact loyalty support for clarification."
+  },
+  {
+    "id": 433,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Do you offer gift receipts without prices?",
+    "answer": "Yes, you can request a gift receipt without prices at checkout for eligible orders."
+  },
+  {
+    "id": 434,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Can I provide my own customs broker for clearance?",
+    "answer": "You may be able to use your own customs broker for certain shipments. Contact support to coordinate broker details before shipping."
+  },
+  {
+    "id": 435,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Will I be charged if I preorder an item and it is later canceled?",
+    "answer": "If a preorder is canceled, any charges will be refunded. We will notify you and provide options for refund or alternative products."
+  },
+  {
+    "id": 436,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "Do you offer live assistance for customers with disabilities?",
+    "answer": "Yes, we provide live assistance and accommodations for customers with disabilities. Contact accessibility support to arrange personalized help."
+  },
+  {
+    "id": 437,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "Can invoices include purchase order numbers for reconciliation?",
+    "answer": "Yes, include your purchase order number during checkout or provide it to billing@example.com and we will include it on your invoice."
+  },
+  {
+    "id": 438,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "Can I cancel a restock notification after signing up?",
+    "answer": "Yes, you can cancel restock notifications from the product page or by updating your notification preferences in your account."
+  },
+  {
+    "id": 439,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "How do you handle orders with multiple delivery addresses?",
+    "answer": "We support multi-address shipping for eligible orders. Select 'Ship to multiple addresses' at checkout and assign items to each address."
+  },
+  {
+    "id": 440,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "Can I request a callback in a specific language?",
+    "answer": "We offer support in multiple languages where available. Request your preferred language when scheduling a callback and we will do our best to accommodate."
+  },
+  {
+    "id": 441,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "هل يمكنني استبدال منتج بآخر من لون مختلف بعد الشراء؟",
+    "answer": "نعم، إذا كان المنتج البديل متوفرًا يمكنك بدء استبدال عبر حسابك أو التواصل مع الدعم لترتيب الشحن والاستبدال."
+  },
+  {
+    "id": 442,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Puis-je demander une livraison à une adresse de chantier ?",
+    "answer": "La livraison sur chantier dépend du transporteur et des conditions d'accès. Contactez le support pour évaluer la faisabilité."
+  },
+  {
+    "id": 443,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Puedo pagar con tarjeta de regalo y tarjeta de crédito combinadas?",
+    "answer": "En algunos casos puedes combinar un saldo de tarjeta regalo con una tarjeta de crédito para cubrir el resto del importe. Intenta aplicar la tarjeta regalo en el pago."
+  },
+  {
+    "id": 444,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why does my device report incorrect sensor readings after exposure to water?",
+    "answer": "Water exposure can damage sensors. Power off the device, dry it thoroughly, and contact support for inspection and repair options."
+  },
+  {
+    "id": 445,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Can warranty service be performed at an authorized local repair center?",
+    "answer": "Authorized local repair centers may be used for warranty service in some regions. Support will advise on approved centers and procedures."
+  },
+  {
+    "id": 446,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do you handle requests for data portability?",
+    "answer": "Submit a data portability request via the privacy portal. We will provide your personal data in a structured, machine-readable format as required by applicable law."
+  },
+  {
+    "id": 447,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I request a different delivery address for future orders automatically?",
+    "answer": "Add multiple addresses to your account and set a default for future orders. You can change the default at any time in account settings."
+  },
+  {
+    "id": 448,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Do you offer referral discounts for inviting friends?",
+    "answer": "We offer referral programs in some regions. Check the referral program page for current terms and rewards for inviting friends."
+  },
+  {
+    "id": 449,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Can I receive a prorated charge when upgrading my subscription?",
+    "answer": "Upgrades are often prorated based on remaining billing period. The exact adjustment will be shown when you change your subscription plan."
+  },
+  {
+    "id": 450,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Are there recommended maintenance schedules for this product?",
+    "answer": "Maintenance recommendations are provided in the user manual and support pages. Follow the guidelines to ensure optimal performance and longevity."
+  },
+  {
+    "id": 451,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Can you provide a sample contract for bulk procurement?",
+    "answer": "We can provide standard terms and sample contracts for bulk procurement. Contact sales to receive documentation tailored to your needs."
+  },
+  {
+    "id": 452,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "What recourse do I have if a carrier loses my shipment?",
+    "answer": "If a carrier confirms a lost shipment, we will work with the carrier to file a claim and arrange a replacement or refund according to our policies."
+  },
+  {
+    "id": 453,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "Can I cancel a scheduled delivery appointment?",
+    "answer": "Yes, cancel or reschedule delivery appointments through your order details or contact support with your order number to request changes."
+  },
+  {
+    "id": 454,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Are there regional restrictions on gift card redemption?",
+    "answer": "Some gift cards are region-locked and can only be redeemed in specific countries. Check the gift card terms for regional restrictions."
+  },
+  {
+    "id": 455,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "How do I redeem loyalty rewards for in-store purchases?",
+    "answer": "Present your loyalty account or code at checkout in participating stores. Check program terms for in-store redemption availability."
+  },
+  {
+    "id": 456,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Can I request minimal packaging for environmental reasons?",
+    "answer": "Select the minimal packaging option at checkout where available. We will reduce packaging materials while ensuring safe delivery."
+  },
+  {
+    "id": 457,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Do you provide commercial invoices for customs clearance?",
+    "answer": "Yes, we include commercial invoices and necessary documentation for customs clearance on international shipments."
+  },
+  {
+    "id": 458,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Can I reserve stock for a future purchase?",
+    "answer": "Reservation options depend on product and region. Contact support or sales to discuss reserving stock for future purchases."
+  },
+  {
+    "id": 459,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "Do you provide accessible packaging labels for visually impaired recipients?",
+    "answer": "We can accommodate accessibility requests including labeling; contact support with your needs prior to shipping and we will assist."
+  },
+  {
+    "id": 460,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "Can I receive invoices with tax breakdowns for multiple jurisdictions?",
+    "answer": "We can provide detailed tax breakdowns on invoices. Contact billing with your jurisdictional requirements for tailored invoicing."
+  },
+  {
+    "id": 461,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "Do restock notifications include estimated quantities available?",
+    "answer": "Notifications typically indicate availability but may not include exact quantities. Contact support for large quantity inquiries."
+  },
+  {
+    "id": 462,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "Can I request special handling instructions for fragile bulk orders?",
+    "answer": "Yes, include special handling instructions when placing your bulk order or contact sales to ensure proper handling and packaging."
+  },
+  {
+    "id": 463,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "How do I provide feedback about a product defect discovered after purchase?",
+    "answer": "Report defects via the support portal with photos and details. We will investigate and advise on repair, replacement, or refund options."
+  },
+  {
+    "id": 464,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "هل يمكنني استرجاع منتج إذا تغيرت مواصفاته بعد الشراء؟",
+    "answer": "إذا كانت التغييرات تؤثر على الاستخدام أو كانت مخالفة للوصف، تواصل مع الدعم وسنراجع طلب الإرجاع وفقًا للحالة."
+  },
+  {
+    "id": 465,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Puis-je demander une livraison à une adresse de vacances temporaire ?",
+    "answer": "Les livraisons vers des adresses temporaires sont possibles selon le transporteur. Vérifiez la disponibilité lors du paiement."
+  },
+  {
+    "id": 466,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Puedo solicitar factura con retención de impuestos?",
+    "answer": "Para solicitudes de facturación con retención, proporciona los detalles fiscales durante la compra o contacta con facturación para asistencia."
+  },
+  {
+    "id": 467,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why does my device show a calibration warning?",
+    "answer": "Calibration warnings indicate the device needs recalibration. Follow the calibration steps in the manual or contact support for guided assistance."
+  },
+  {
+    "id": 468,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Can I transfer warranty service to another country?",
+    "answer": "International warranty service depends on regional policies. Contact support with your product serial number and destination country for options."
+  },
+  {
+    "id": 469,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do you handle law enforcement requests for user data?",
+    "answer": "We comply with lawful requests and follow legal processes. We notify users when permitted and provide data only under valid legal authority."
+  },
+  {
+    "id": 470,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I request a different delivery address for part of my order?",
+    "answer": "Yes, use the multi-address shipping option at checkout to assign different delivery addresses to items in the same order."
+  },
+  {
+    "id": 471,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Do you offer seasonal loyalty bonuses?",
+    "answer": "We occasionally offer seasonal bonuses to loyalty members. Check your loyalty dashboard and promotional emails for current offers."
+  },
+  {
+    "id": 472,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Can I pause my subscription for a specific number of billing cycles?",
+    "answer": "Some subscriptions allow pausing for a set number of cycles. Check your subscription settings or contact support to arrange a pause."
+  },
+  {
+    "id": 473,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Are there recommended spare parts I should keep on hand?",
+    "answer": "Recommended spare parts are listed on the product support page. For critical operations, consider stocking essential spares as advised."
+  },
+  {
+    "id": 474,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Can you provide consolidated shipping for multiple orders to one location?",
+    "answer": "Consolidated shipping can be arranged for multiple orders to a single destination. Contact sales to coordinate consolidation and scheduling."
+  },
+  {
+    "id": 475,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "How do you handle delays caused by supplier shortages?",
+    "answer": "We notify affected customers and offer alternatives, refunds, or backorder options. Contact support for personalized solutions."
+  },
+  {
+    "id": 476,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "If I cancel an order, how long until the funds are released by my bank?",
+    "answer": "Bank release times vary; refunds are processed promptly but may take 3-10 business days to appear depending on your bank."
+  },
+  {
+    "id": 477,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can I purchase a gift card for a specific store location?",
+    "answer": "Physical gift card availability for specific store locations varies. Check local store options or contact customer service for assistance."
+  },
+  {
+    "id": 478,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "Are loyalty rewards available for corporate accounts?",
+    "answer": "Corporate loyalty programs may offer tailored rewards. Contact your account manager to discuss corporate loyalty benefits."
+  },
+  {
+    "id": 479,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Do you provide tamper-evident packaging for high-value items?",
+    "answer": "High-value items may be shipped with tamper-evident packaging. Contact support for specific security packaging options."
+  },
+  {
+    "id": 480,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Can I request that duties be billed to the sender?",
+    "answer": "Billing duties to the sender (DDP) may be available for some destinations. Select DDP at checkout if offered or contact support for arrangements."
+  },
+  {
+    "id": 481,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Do you offer alternative product suggestions when an item is discontinued?",
+    "answer": "Yes, we suggest similar or upgraded alternatives on the product page. Contact support for personalized recommendations."
+  },
+  {
+    "id": 482,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "Can I request a human-readable invoice for accessibility reasons?",
+    "answer": "We can provide invoices in accessible formats upon request. Contact billing with your accessibility needs and we will accommodate."
+  },
+  {
+    "id": 483,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "Can invoices be issued to multiple recipients?",
+    "answer": "We can send invoice copies to multiple recipients upon request. Provide recipient emails to billing@example.com for distribution."
+  },
+  {
+    "id": 484,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "Do restock notifications include expected shipping dates?",
+    "answer": "Notifications may include estimated availability dates when known. Exact shipping dates depend on inventory and fulfillment schedules."
+  },
+  {
+    "id": 485,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "Can I request a specific warehouse for order fulfillment?",
+    "answer": "Fulfillment location is determined by inventory and logistics. For special requests, contact support or sales to discuss options."
+  },
+  {
+    "id": 486,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "How do I request a manager review of my support case?",
+    "answer": "Reply to your support ticket requesting escalation or contact support and ask for a manager review, providing your ticket number and details."
+  },
+  {
+    "id": 487,
+    "language": "AR",
+    "category": "الاسترجاع",
+    "question": "هل يمكنني استبدال منتج بشراء آخر ودفع الفرق فقط؟",
+    "answer": "في بعض الحالات يمكن استبدال المنتج ودفع الفرق إذا كان المنتج البديل أغلى. تواصل مع الدعم لترتيب العملية."
+  },
+  {
+    "id": 488,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Puis-je demander une livraison à une adresse de boîte postale ?",
+    "answer": "La livraison en boîte postale est possible pour certains articles et transporteurs. Vérifiez la disponibilité lors du paiement."
+  },
+  {
+    "id": 489,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Puedo solicitar factura con IVA desglosado para mi contabilidad?",
+    "answer": "Sí, solicita la factura con el desglose de IVA durante el pago o contacta con facturación tras la compra para obtener la factura detallada."
+  },
+  {
+    "id": 490,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "Why does my device report low battery even after charging?",
+    "answer": "Low battery readings after charging can indicate battery health issues or calibration needs. Try recalibrating the battery or contact support for diagnostics."
+  },
+  {
+    "id": 491,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Can I get a replacement if my product fails multiple times under warranty?",
+    "answer": "If a product repeatedly fails under warranty, we may offer replacement or refund after assessment. Contact support to initiate a warranty review."
+  },
+  {
+    "id": 492,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do you handle children's data if a minor uses the product?",
+    "answer": "We follow applicable laws for children's data and require parental consent where necessary. Contact privacy@example.com for specific policies and requests."
+  },
+  {
+    "id": 493,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I request a delivery to a PO Box for large items?",
+    "answer": "Large items may not be eligible for PO Box delivery due to carrier restrictions. Contact support to explore alternative delivery options."
+  },
+  {
+    "id": 494,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "Do you offer discounts for bulk recurring orders?",
+    "answer": "Recurring bulk orders may qualify for contract pricing. Contact sales to discuss recurring order discounts and terms."
+  },
+  {
+    "id": 495,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "Can I change the subscription delivery frequency?",
+    "answer": "Yes, many subscriptions allow you to change delivery frequency in your subscription settings. Adjust as needed or contact support for help."
+  },
+  {
+    "id": 496,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Are there recommended storage conditions for this product?",
+    "answer": "Recommended storage conditions are listed in the product manual and support pages. Follow guidelines to maintain product integrity."
+  },
+  {
+    "id": 497,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Can you provide a packing list for each pallet in a bulk shipment?",
+    "answer": "Yes, we can provide detailed packing lists for palletized shipments. Request this when placing your bulk order."
+  },
+  {
+    "id": 498,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "What happens if a carrier delays customs clearance?",
+    "answer": "If customs clearance is delayed, we will work with the carrier and customs authorities to resolve the issue and keep you informed of progress."
+  },
+  {
+    "id": 499,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "Can I cancel a scheduled installation service?",
+    "answer": "Installation service cancellations are subject to service terms. Contact support as soon as possible to cancel or reschedule and inquire about any fees."
+  },
+  {
+    "id": 500,
+    "language": "EN",
+    "category": "Gift Cards",
+    "question": "Can gift cards be redeemed for subscriptions?",
+    "answer": "Gift card redemption for subscriptions depends on the platform. Apply the gift card at checkout or contact support to confirm applicability."
+  },
+  {
+    "id": 501,
+    "language": "EN",
+    "category": "Loyalty Program",
+    "question": "How do I opt into loyalty program communications?",
+    "answer": "Opt into loyalty communications in 'Account > Notifications' to receive updates on points, offers, and exclusive events."
+  },
+  {
+    "id": 502,
+    "language": "EN",
+    "category": "Packaging",
+    "question": "Do you offer packaging that is easy to open for elderly customers?",
+    "answer": "We can accommodate accessibility packaging requests. Contact support with your needs and we will arrange easier-to-open packaging where possible."
+  },
+  {
+    "id": 503,
+    "language": "EN",
+    "category": "Customs and Duties",
+    "question": "Can you provide HS codes for a list of SKUs for customs pre-clearance?",
+    "answer": "Yes, provide the SKU list to support or your account manager and we will supply HS codes and documentation for customs pre-clearance."
+  },
+  {
+    "id": 504,
+    "language": "EN",
+    "category": "Out of Stock",
+    "question": "Do you offer rain checks for out-of-stock promotional items?",
+    "answer": "Rain check policies vary by promotion. Contact support to inquire about rain checks or alternative offers for out-of-stock promotional items."
+  },
+  {
+    "id": 505,
+    "language": "EN",
+    "category": "Accessibility",
+    "question": "Can I request a human assistant to complete my purchase over the phone?",
+    "answer": "Yes, phone-assisted purchases are available in some regions. Contact support to arrange a phone order with an agent."
+  },
+  {
+    "id": 506,
+    "language": "EN",
+    "category": "Invoice",
+    "question": "Can invoices include multiple shipping addresses for a single order?",
+    "answer": "Invoices typically reflect billing details; for multiple shipping addresses, we can provide consolidated or separate invoices upon request. Contact billing for arrangements."
+  },
+  {
+    "id": 507,
+    "language": "EN",
+    "category": "Restock Notifications",
+    "question": "Are restock notifications prioritized for loyalty members?",
+    "answer": "Some restock events offer early access to loyalty members. Check loyalty communications for priority restock opportunities."
+  },
+  {
+    "id": 508,
+    "language": "EN",
+    "category": "Order Processing",
+    "question": "Can I request a specific carrier pickup time for a return?",
+    "answer": "Carrier pickup scheduling depends on carrier services. Contact support to arrange a pickup and we will coordinate with the carrier where possible."
+  },
+  {
+    "id": 509,
+    "language": "EN",
+    "category": "Customer Support",
+    "question": "How do I request a copy of my purchase agreement?",
+    "answer": "Request a copy of your purchase agreement via support or billing and provide your order number; we will supply the document."
+  },
+  {
+    "id": 510,
+    "language": "EN",
+    "category": "Returns",
+    "question": "Can I return an item purchased with a promotional bundle and keep the discount on remaining items?",
+    "answer": "Returning part of a promotional bundle may affect the discount. Contact support to understand how the return will impact pricing and refunds."
+  },
+  {
+    "id": 511,
+    "language": "EN",
+    "category": "Refunds",
+    "question": "Will I receive a refund for taxes if I return an international order?",
+    "answer": "Tax refunds for international returns depend on local tax laws." 
+    }
+  ] 
+    
+    
     
 
