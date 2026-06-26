@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "language": "EN",
+    "category": "Returns",
+    "question": "What is your return policy if the product doesn't fit?",
+    "answer": "We accept returns within 30 days of delivery for items in original condition. Please initiate a return through your account or contact customer support for a prepaid return label."
+  },
+  {
+    "id": 2,
+    "language": "EN",
+    "category": "Shipping",
+    "question": "How long does standard shipping take?",
+    "answer": "Standard shipping typically takes 3-7 business days depending on your location. You will receive a tracking number once your order ships."
+  },
+  {
+    "id": 3,
+    "language": "EN",
+    "category": "Payments",
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept major credit and debit cards (Visa, MasterCard, American Express), PayPal, and Apple Pay. All payments are processed securely."
+  },
+  {
+    "id": 4,
+    "language": "EN",
+    "category": "Account Management",
+    "question": "How can I reset my account password?",
+    "answer": "Click 'Forgot Password' on the sign-in page, enter your registered email, and follow the instructions sent to reset your password. Contact support if you don't receive the email."
+  },
+  {
+    "id": 5,
+    "language": "EN",
+    "category": "Technical Issues",
+    "question": "The website shows an error during checkout. What should I do?",
+    "answer": "Please try clearing your browser cache or using a different browser. If the issue persists, take a screenshot and contact support with the error details so we can assist promptly."
+  },
+  {
+    "id": 6,
+    "language": "EN",
+    "category": "Warranty",
+    "question": "Is there a warranty on electronic products?",
+    "answer": "Most electronic products include a one-year limited warranty covering manufacturing defects. Warranty details are listed on the product page; extended plans may be available at checkout."
+  },
+  {
+    "id": 7,
+    "language": "EN",
+    "category": "Privacy",
+    "question": "How do you protect my payment information?",
+    "answer": "We use industry-standard encryption (TLS) and do not store full card details on our servers. Payments are processed by trusted payment providers to ensure security."
+  },
+  {
+    "id": 8,
+    "language": "EN",
+    "category": "Orders",
+    "question": "Can I change my shipping address after placing an order?",
+    "answer": "Address changes are possible within one hour of placing the order. Please contact customer support immediately with your order number to request a change."
+  },
+  {
+    "id": 9,
+    "language": "EN",
+    "category": "Discounts",
+    "question": "How can I apply a promo code to my order?",
+    "answer": "Enter your promo code in the 'Promo Code' field at checkout and click 'Apply'. If the code is valid, the discount will be reflected in your order total."
+  },
+  {
+    "id": 10,
+    "language": "EN",
+    "category": "Subscriptions",
+    "question": "How do I cancel my subscription?",
+    "answer": "Go to 'Account > Subscriptions' and select 'Cancel' next to the subscription you wish to end. You can also contact support and we will assist with cancellation."
+  },
+  {
+    "id": 11,
+    "language": "EN",
+    "category": "Product Info",
+    "question": "Where can I find product specifications and dimensions?",
+    "answer": "Product specifications, dimensions, and weight are listed under the 'Specifications' section on each product page. Contact support for additional details."
+  },
+  {
+    "id": 12,
+    "language": "EN",
+    "category": "Shipping Delays",
+    "question": "My order is delayed. How can I get an update?",
+    "answer": "Check your tracking link for the latest status. If there is no update or the delay is prolonged, contact customer support with your order number and we will investigate."
+  },
+  {
+    "id": 13,
+    "language": "EN",
+    "category": "Cancellations",
+    "question": "Can I cancel my order after it has been shipped?",
+    "answer": "Once an order has shipped, it cannot be canceled. You may refuse delivery or initiate a return once you receive the item, following our returns process."
+  },
+  {
+    "id": 14,
+    "language": "AR",
+    "category": "Returns",
+    "question": "كيف يمكنني إرجاع المنتج إذا لم يكن مطابقًا لتوقعاتي؟",
+    "answer": "يمكنك إرجاع المنتج خلال 30 يومًا من تاريخ التسليم بشرط أن يكون في حالته الأصلية. افتح طلب إرجاع من حسابك أو تواصل مع الدعم للحصول على ملصق الإرجاع."
+  },
+  {
+    "id": 15,
+    "language": "AR",
+    "category": "الشحن",
+    "question": "كم يستغرق الشحن القياسي؟",
+    "answer": "عادةً يستغرق الشحن القياسي من 3 إلى 7 أيام عمل حسب الموقع. سنرسل لك رقم التتبع بمجرد شحن الطلب."
+  },
+  {
+    "id": 16,
+    "language": "AR",
+    "category": "المدفوعات",
+    "question": "ما هي طرق الدفع المتاحة؟",
+    "answer": "نقبل بطاقات الائتمان الرئيسية (Visa, MasterCard, American Express)، وPayPal، وApple Pay. تتم معالجة المدفوعات بأمان عبر مزودي دفع موثوقين."
+  },
+  {
+    "id": 17,
+    "language": "AR",
+    "category": "إدارة الحساب",
+    "question": "كيف أستعيد كلمة المرور الخاصة بي؟",
+    "answer": "اضغط على 'نسيت كلمة المرور' في صفحة تسجيل الدخول، أدخل بريدك المسجل واتبع التعليمات المرسلة لإعادة تعيين كلمة المرور."
+  },
+  {
+    "id": 18,
+    "language": "AR",
+    "category": "مشكلات فنية",
+    "question": "أواجه خطأً عند إتمام الدفع، ماذا أفعل؟",
+    "answer": "حاول مسح ذاكرة المتصفح أو استخدام متصفح آخر. إذا استمر الخطأ، التقط لقطة شاشة وأرسلها إلى الدعم مع تفاصيل الخطأ لنساعدك بسرعة."
+  },
+  {
+    "id": 19,
+    "language": "AR",
+    "category": "الضمان",
+    "question": "هل يوجد ضمان على الأجهزة الإلكترونية؟",
+    "answer": "نعم، معظم الأجهزة تأتي بضمان محدود لمدة سنة يغطي عيوب التصنيع. يمكنك الاطلاع على تفاصيل الضمان في صفحة المنتج."
+  },
+  {
+    "id": 20,
+    "language": "AR",
+    "category": "الخصوصية",
+    "question": "كيف تحمون معلومات بطاقتي الائتمانية؟",
+    "answer": "نستخدم تشفيرًا قياسيًا (TLS) ولا نخزن تفاصيل البطاقة الكاملة على خوادمنا. تتم معالجة المدفوعات عبر مزودي دفع آمنين."
+  },
+  {
+    "id": 21,
+    "language": "AR",
+    "category": "الطلبات",
+    "question": "هل يمكنني تعديل عنوان الشحن بعد الطلب؟",
+    "answer": "يمكن تعديل العنوان خلال ساعة واحدة من تقديم الطلب. تواصل مع الدعم فورًا مع رقم الطلب لطلب التعديل."
+  },
+  {
+    "id": 22,
+    "language": "AR",
+    "category": "الخصومات",
+    "question": "كيف أستخدم رمز الخصم عند الدفع؟",
+    "answer": "أدخل رمز الخصم في حقل 'رمز الخصم' أثناء الدفع ثم اضغط 'تطبيق'. إذا كان الرمز صالحًا سيظهر الخصم في إجمالي الطلب."
+  },
+  {
+    "id": 23,
+    "language": "AR",
+    "category": "الاشتراكات",
+    "question": "كيف ألغي اشتراكي الشهري؟",
+    "answer": "اذهب إلى 'الحساب > الاشتراكات' واختر 'إلغاء' بجانب الاشتراك الذي تريد إنهاءه، أو تواصل مع الدعم وسنساعدك."
+  },
+  {
+    "id": 24,
+    "language": "AR",
+    "category": "معلومات المنتج",
+    "question": "أين أجد مواصفات المنتج والأبعاد؟",
+    "answer": "تجد المواصفات والأبعاد والوزن في قسم 'المواصفات' على صفحة المنتج. تواصل مع الدعم إذا احتجت تفاصيل إضافية."
+  },
+  {
+    "id": 25,
+    "language": "FR",
+    "category": "Retours",
+    "question": "Quelle est votre politique de retour si l'article est défectueux ?",
+    "answer": "Nous acceptons les retours sous 30 jours pour les articles en état d'origine. Contactez le support avec une photo du défaut pour obtenir une étiquette de retour prépayée."
+  },
+  {
+    "id": 26,
+    "language": "FR",
+    "category": "Livraison",
+    "question": "Quels sont les délais de livraison standard ?",
+    "answer": "La livraison standard prend généralement 3 à 7 jours ouvrables selon la destination. Un numéro de suivi vous sera envoyé dès l'expédition."
+  },
+  {
+    "id": 27,
+    "language": "FR",
+    "category": "Paiements",
+    "question": "Quels moyens de paiement acceptez-vous ?",
+    "answer": "Nous acceptons les cartes Visa, MasterCard, American Express, PayPal et Apple Pay. Les transactions sont sécurisées par des prestataires de confiance."
+  },
+  {
+    "id": 28,
+    "language": "FR",
+    "category": "Gestion du compte",
+    "question": "Comment réinitialiser mon mot de passe ?",
+    "answer": "Cliquez sur 'Mot de passe oublié' sur la page de connexion, saisissez votre e-mail et suivez les instructions envoyées pour réinitialiser votre mot de passe."
+  },
+  {
+    "id": 29,
+    "language": "FR",
+    "category": "Problèmes techniques",
+    "question": "Le site affiche une erreur lors du paiement, que faire ?",
+    "answer": "Essayez de vider le cache du navigateur ou d'utiliser un autre navigateur. Si le problème persiste, envoyez une capture d'écran au support pour que nous puissions vous aider."
+  },
+  {
+    "id": 30,
+    "language": "FR",
+    "category": "Garantie",
+    "question": "Les produits électroniques sont-ils garantis ?",
+    "answer": "Oui, la plupart des produits électroniques bénéficient d'une garantie limitée d'un an couvrant les défauts de fabrication. Les détails figurent sur la page produit."
+  },
+  {
+    "id": 31,
+    "language": "FR",
+    "category": "Confidentialité",
+    "question": "Comment protégez-vous mes informations de paiement ?",
+    "answer": "Nous utilisons le chiffrement TLS et ne stockons pas les numéros de carte complets. Les paiements sont traités par des prestataires sécurisés."
+  },
+  {
+    "id": 32,
+    "language": "FR",
+    "category": "Commandes",
+    "question": "Puis-je modifier mon adresse de livraison après la commande ?",
+    "answer": "Les modifications d'adresse sont possibles dans l'heure suivant la commande. Contactez le support avec votre numéro de commande pour demander la modification."
+  },
+  {
+    "id": 33,
+    "language": "FR",
+    "category": "Remises",
+    "question": "Comment appliquer un code promo ?",
+    "answer": "Saisissez votre code promo dans le champ prévu au paiement et cliquez sur 'Appliquer'. Le montant réduit s'affichera si le code est valide."
+  },
+  {
+    "id": 34,
+    "language": "FR",
+    "category": "Abonnements",
+    "question": "Comment annuler mon abonnement récurrent ?",
+    "answer": "Rendez-vous dans 'Compte > Abonnements' et sélectionnez 'Annuler' à côté de l'abonnement concerné, ou contactez le support pour assistance."
+  },
+  {
+    "id": 35,
+    "language": "FR",
+    "category": "Informations produit",
+    "question": "Où trouver les dimensions et le poids du produit ?",
+    "answer": "Les dimensions et le poids sont indiqués dans la section 'Spécifications' de la page produit. Contactez le support pour des précisions supplémentaires."
+  },
+  {
+    "id": 36,
+    "language": "ES",
+    "category": "Devoluciones",
+    "question": "¿Cuál es la política de devoluciones si el producto no cumple mis expectativas?",
+    "answer": "Aceptamos devoluciones dentro de los 30 días posteriores a la entrega siempre que el artículo esté en su estado original. Inicia la devolución desde tu cuenta o contacta soporte."
+  },
+  {
+    "id": 37,
+    "language": "ES",
+    "category": "Envío",
+    "question": "¿Cuánto tarda el envío estándar?",
+    "answer": "El envío estándar suele tardar entre 3 y 7 días laborables según la ubicación. Recibirás un número de seguimiento cuando tu pedido sea enviado."
+  },
+  {
+    "id": 38,
+    "language": "ES",
+    "category": "Pagos",
+    "question": "¿Qué métodos de pago aceptan?",
+    "answer": "Aceptamos tarjetas Visa, MasterCard, American Express, PayPal y Apple Pay. Todas las transacciones se procesan de forma segura."
+  },
+  {
+    "id": 39,
+    "language": "ES",
+    "category": "Gestión de cuenta",
+    "question": "¿Cómo restablezco mi contraseña?",
+    "answer": "Haz clic en '¿Olvidaste tu contraseña?' en la página de inicio de sesión, introduce tu correo y sigue las instrucciones para restablecerla."
+  },
+  {
+    "id": 40,
+    "language": "ES",
+    "category": "Problemas técnicos",
+    "question": "Recibo un error al finalizar la compra, ¿qué hago?",
+    "answer": "Prueba a borrar la caché del navegador o usar otro navegador. Si el error continúa, envía una captura al soporte con los detalles para que podamos ayudarte."
+  },
+  {
+    "id": 41,
+    "language": "ES",
+    "category": "Garantía",
+    "question": "¿Los productos electrónicos tienen garantía?",
+    "answer": "Sí, la mayoría de los productos electrónicos incluyen una garantía limitada de un año que cubre defectos de fabricación. Consulta la página del producto para más detalles."
+  },
+  {
+    "id": 42,
+    "language": "ES",
+    "category": "Privacidad",
+    "question": "¿Cómo protegen la información de mi tarjeta?",
+    "answer": "Usamos cifrado TLS y no almacenamos los datos completos de la tarjeta. Los pagos se procesan mediante proveedores de pago seguros."
+  },
+  {
+    "id": 43,
+    "language": "ES",
+    "category": "Pedidos",
+    "question": "¿Puedo cambiar la dirección de envío después de hacer el pedido?",
+    "answer": "Los cambios de dirección son posibles dentro de la primera hora tras realizar el pedido. Contacta con soporte con tu número de pedido para solicitar el cambio."
+  },
+  {
+    "id": 44,
+    "language": "ES",
+    "category": "Descuentos",
+    "question": "¿Cómo aplico un código promocional en el pago?",
+    "answer": "Introduce el código promocional en el campo 'Código promocional' durante el pago y pulsa 'Aplicar'. Si es válido, verás el descuento reflejado."
+  },
+  {
+    "id": 45,
+    "language": "ES",
+    "category": "Suscripciones",
+    "question": "¿Cómo doy de baja mi suscripción mensual?",
+    "answer": "Ve a 'Cuenta > Suscripciones' y selecciona 'Cancelar' junto a la suscripción que deseas finalizar, o contacta con soporte para que te ayudemos."
+  },
+  {
+    "id": 46,
+    "language": "EN",
+    "category": "Bulk Orders",
+    "question": "Do you offer discounts for bulk orders?",
+    "answer": "Yes, we offer tiered discounts for bulk purchases. Contact our sales team at sales@example.com with your requirements for a custom quote."
+  },
+  {
+    "id": 47,
+    "language": "FR",
+    "category": "Expédition internationale",
+    "question": "Livrez-vous à l'international et quels sont les frais ?",
+    "answer": "Oui, nous livrons dans de nombreux pays. Les frais et délais varient selon la destination ; les coûts s'affichent lors du paiement."
+  },
+  {
+    "id": 48,
+    "language": "AR",
+    "category": "الشحن الدولي",
+    "question": "هل تقدمون شحنًا دوليًا وما هي الرسوم؟",
+    "answer": "نعم، نشحن إلى العديد من الدول. تختلف الرسوم ومدة التوصيل حسب الوجهة، وسيظهر السعر عند إتمام عملية الدفع."
+  },
+  {
+    "id": 49,
+    "language": "ES",
+    "category": "Retrasos de envío",
+    "question": "Mi pedido está retrasado, ¿pueden ayudarme?",
+    "answer": "Revisa el estado en el enlace de seguimiento. Si no hay actualizaciones o el retraso es prolongado, contacta con soporte con tu número de pedido y lo investigaremos."
+  },
+  {
+    "id": 50,
+    "language": "FR",
+    "category": "Annulations",
+    "question": "Puis-je annuler ma commande après expédition ?",
+    "answer": "Une fois expédiée, la commande ne peut pas être annulée. Vous pouvez refuser la livraison ou effectuer un retour après réception conformément à notre politique de retour."
+  }
+]
