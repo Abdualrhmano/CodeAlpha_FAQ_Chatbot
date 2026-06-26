@@ -1,17 +1,10 @@
 """
 Production-ready FAQ Chatbot with Automated Learning Pipeline
+Refactored for Streamlit Cloud Compatibility
 ------------------------------------------------------------
-Single-file Streamlit application that implements a robust FAQ chatbot.
-Features:
-- Dynamic external data layer (faqs.json) with zero-config initialization.
-- NLP preprocessing using NLTK (tokenization, POS tagging, lemmatization).
-- TF-IDF vectorization and cosine similarity matching (scikit-learn).
-- Unresolved query logging (unresolved_queries.json).
-- Negative feedback persistence (negative_feedback.json).
-- Dynamic vector store reloading when faqs.json changes (self-healing).
-- Streamlit chat UI using st.chat_message and st.chat_input.
-- Sidebar metrics and session log summary.
-- Granular try/except blocks and automated NLTK downloads.
+- Removed threading lock usage in session state.
+- Simplified vector store reloading without locks.
+- Updated deprecated st.experimental_rerun() to st.rerun().
 """
 
 from __future__ import annotations
@@ -19,7 +12,6 @@ from __future__ import annotations
 import json
 import logging
 import os
-import threading
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -487,36 +479,24 @@ def initialize_session_state() -> None:
     if "tfidf_matrix" not in st.session_state:
         st.session_state.tfidf_matrix = np.zeros((0, 0))
 
-    if "lock" not in st.session_state:
-        # Simple threading lock to avoid concurrent rebuilds
-        st.session_state.lock = threading.Lock()
-
 
 def reload_vector_store_if_needed() -> None:
     """
     Reload faqs.json and rebuild vector store if the file has changed.
 
     This function is safe to call frequently; it checks file modification time
-    and only rebuilds when necessary. It uses a session lock to avoid races.
+    and only rebuilds when necessary. It does not use threading locks to remain
+    compatible with Streamlit cloud environments.
     """
     try:
         ensure_faqs_file(FAQS_FILE)
-        current_mtime = float(FAQS_FILE.stat().st_mtime)
-    except Exception as exc:
-        LOGGER.exception("Failed to stat faqs.json: %s", exc)
-        current_mtime = 0.0
+        try:
+            current_mtime = float(FAQS_FILE.stat().st_mtime)
+        except Exception as exc:
+            LOGGER.exception("Failed to stat faqs.json: %s", exc)
+            current_mtime = 0.0
 
-    if current_mtime != st.session_state.faqs_mtime:
-        with st.session_state.lock:
-            # Double-check inside lock
-            try:
-                current_mtime = float(FAQS_FILE.stat().st_mtime)
-            except Exception:
-                current_mtime = st.session_state.faqs_mtime
-
-            if current_mtime == st.session_state.faqs_mtime:
-                return
-
+        if current_mtime != st.session_state.faqs_mtime:
             LOGGER.info("Detected change in faqs.json; reloading vector store.")
             faqs = load_faqs_from_file(FAQS_FILE)
             st.session_state.faqs = faqs
@@ -526,6 +506,8 @@ def reload_vector_store_if_needed() -> None:
             st.session_state.tfidf_matrix = tfidf_matrix
             st.session_state.faqs_mtime = current_mtime
             LOGGER.info("Reload complete. FAQs loaded: %d", len(faqs))
+    except Exception as exc:
+        LOGGER.exception("Error while reloading vector store: %s", exc)
 
 
 # ---------------------------
@@ -750,7 +732,7 @@ def render_chat_interface() -> None:
     try:
         if st.button("Reload FAQs (admin)", key="reload_faqs"):
             reload_vector_store_if_needed()
-            st.experimental_rerun()
+            st.rerun()
     except Exception:
         LOGGER.exception("Manual reload failed.")
 
