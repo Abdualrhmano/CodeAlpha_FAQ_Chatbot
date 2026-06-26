@@ -674,12 +674,13 @@ def render_chat_interface() -> None:
         "The system logs unresolved queries for continuous improvement."
     )
 
-    render_sidebar()
-
     # Initialize session state and ensure faqs file exists
     initialize_session_state()
     ensure_faqs_file(FAQS_FILE)
     reload_vector_store_if_needed()
+
+    render_sidebar()
+
 
     # Display chat history
     for role, message in st.session_state.chat_history:
